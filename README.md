@@ -1,1 +1,1 @@
-# seinfeld-analysis
+# Seinfeld analysis using `R`

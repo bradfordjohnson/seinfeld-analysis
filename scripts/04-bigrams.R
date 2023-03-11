@@ -5,7 +5,7 @@ pacman::p_load(dplyr,
                stringr)
 
 # load data
-scripts <- readr::read_csv("scripts.csv") %>%
+scripts <- readr::read_csv("data/raw-data/scripts.csv") %>%
   janitor::clean_names()
 
 # wrangle data
@@ -45,4 +45,4 @@ bigram_counts <- bigram_counts %>%
   filter(!word1 %in% bigram_stopwords) %>%
   filter(!word2 %in% bigram_stopwords)
 
-readr::write_csv(bigram_counts, "04-character-bigrams.csv")
+readr::write_csv(bigram_counts, "data/04-character-bigrams.csv")

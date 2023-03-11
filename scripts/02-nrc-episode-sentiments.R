@@ -48,4 +48,4 @@ mean_episode_sentiments <- db_nrc %>%
   summarise(mean_sent = round(mean(sentiment),2))
 
 # export episode sentiments
-write_csv(mean_episode_sentiments, "nrc_episode_sentiments.csv")
+write_csv(mean_episode_sentiments, "02-nrc-episode-sentiments.csv")

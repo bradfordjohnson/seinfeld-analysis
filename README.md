@@ -2,7 +2,7 @@
 
 ## Objectives
 - **Sentiment analysis of Seinfeld scripts** - positive and negative sentiments.
-- **Identify "catchpharses", common themes, and inside jokes** - word frequency and relationships
+- **Identify "catchpharses", common themes, and inside jokes** - word frequency and relationships.
 - **Word correlation** - how are certain words related?
 - **Wrangle and visualize insightful relationships**...
 

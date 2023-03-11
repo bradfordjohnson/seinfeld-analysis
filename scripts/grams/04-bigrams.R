@@ -45,4 +45,4 @@ bigram_counts <- bigram_counts %>%
   filter(!word1 %in% bigram_stopwords) %>%
   filter(!word2 %in% bigram_stopwords)
 
-readr::write_csv(bigram_counts, "data/04-character-bigrams.csv")
+readr::write_csv(bigram_counts, "data/grams/04-character-bigrams.csv")

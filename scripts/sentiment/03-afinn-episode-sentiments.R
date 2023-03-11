@@ -42,7 +42,7 @@ mean_episode_sentiments <- db_afinn %>%
 
 mean_episode_sentiments <- mean_episode_sentiments %>%
   separate(seid, c("season", "episode"), sep = 3) %>%
-  mutate(show_number = row_number())
+  mutate(show_number = row_number(), lex = "afinn")
 
 # export episode sentiments
-write_csv(mean_episode_sentiments, "data/03-afinn-episode-sentiments.csv")
+write_csv(mean_episode_sentiments, "data/sentiment/03-afinn-episodes.csv")

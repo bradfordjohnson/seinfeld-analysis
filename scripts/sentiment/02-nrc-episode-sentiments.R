@@ -49,7 +49,7 @@ mean_episode_sentiments <- db_nrc %>%
 
 mean_episode_sentiments <- mean_episode_sentiments %>%
   separate(seid, c("season", "episode"), sep = 3) %>%
-  mutate(show_number = row_number())
+  mutate(show_number = row_number(), lex = "nrc")
 
 # export episode sentiments
-write_csv(mean_episode_sentiments, "data/02-nrc-episode-sentiments.csv")
+write_csv(mean_episode_sentiments, "data/sentiment/02-nrc-episodes.csv")

@@ -49,7 +49,7 @@ mean_episode_sentiments <- db_bing %>%
 
 mean_episode_sentiments <- mean_episode_sentiments %>%
   separate(seid, c("season", "episode"), sep = 3) %>%
-  mutate(show_number = row_number())
+  mutate(show_number = row_number(), lex = "bing")
 
 # export episode sentiments
-write_csv(mean_episode_sentiments, "data/01-bing-episode-sentiments.csv")
+write_csv(mean_episode_sentiments,"data/sentiment/01-bing-episodes.csv")

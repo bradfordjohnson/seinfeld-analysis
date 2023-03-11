@@ -47,5 +47,9 @@ mean_episode_sentiments <- db_bing %>%
   group_by(seid) %>%
   summarise(mean_sent = round(mean(sentiment),2))
 
+mean_episode_sentiments <- mean_episode_sentiments %>%
+  separate(seid, c("season", "episode"), sep = 3) %>%
+  mutate(show_number = row_number())
+
 # export episode sentiments
 write_csv(mean_episode_sentiments, "data/01-bing-episode-sentiments.csv")

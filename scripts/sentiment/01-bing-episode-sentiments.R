@@ -51,5 +51,6 @@ mean_episode_sentiments <- mean_episode_sentiments %>%
   separate(seid, c("season", "episode"), sep = 3) %>%
   mutate(show_number = row_number(), lex = "bing")
 
-# export episode sentiments
+# export episode sentiments and words
 write_csv(mean_episode_sentiments,"data/sentiment/01-bing-episodes.csv")
+write_csv(word_check,"data/sentiment/01-word-check.csv")

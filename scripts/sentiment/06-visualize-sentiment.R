@@ -9,9 +9,11 @@ lex_means <- lex %>%
   group_by(lex) %>%
   summarise(mean = mean(mean_sent))
 
-# visualize
+# visualize sentiment
 lex %>%
   ggplot(aes(x = show_number, y = mean_sent)) +
   geom_col() +
   facet_wrap(~lex) +
-  geom_hline(data = lex_means, aes(yintercept = mean))
+  geom_hline(yintercept = 0) +
+  geom_hline(data = lex_means, aes(yintercept = mean), linetype = "dashed",
+             color = "red")

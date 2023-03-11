@@ -48,4 +48,4 @@ mean_episode_sentiments <- db_bing %>%
   summarise(mean_sent = round(mean(sentiment),2))
 
 # export episode sentiments
-write_csv(mean_episode_sentiments, "01-bing-episode-sentiments.csv")
+write_csv(mean_episode_sentiments, "data/01-bing-episode-sentiments.csv")

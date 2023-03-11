@@ -11,6 +11,18 @@
 
 ## Methods
 <!--- maybe break down by step and give brief summary, such as data wrangling with tidytext to seperate words grouped by "x" to investigate "y" --->
+### The Data Workflow
+- Seperate processes into dedicated `R` scripts and '*stages*':
+    - Individual `R` file for each data prep / wrangling / cleaning task
+    - Save wrangled and cleaned data frames as `.csv`'s
+    - Load prepared data into dedicated visualization scripts
+    - Save individual visuals and final visuals
+
+**This workflow is done in stages for the following reasons:**
+- Lighten the workload on a machine - *lots of text in these datasets*
+- Maintain an organized work enviroment
+- Prepared data can be saved and used in the future - *version control*
+- Errors can be isolated
 ### Sentiment Analysis
 1. `unnest_tokens()` - *Seperate text into rows of single words*
 2. `anti_join()` - *Drop uninteresting words (stop words)*

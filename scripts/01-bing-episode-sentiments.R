@@ -6,7 +6,7 @@ pacman::p_load(dplyr,
                tidyverse)
 
 # load data
-scripts <- read_csv("scripts.csv") %>%
+scripts <- read_csv("raw-data/scripts.csv") %>%
   janitor::clean_names()
 
 # wrangle data

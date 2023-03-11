@@ -8,9 +8,9 @@
 ## Methods
 <!--- maybe break down by step and give brief summary, such as data wrangling with tidytext to seperate words grouped by "x" to investigate "y" --->
 ### Sentiment Analysis
-1. `unnest_tokens()` - *Seperate text into single words*
-2. Remove stop words - `anti_join()` *Uninteresting words*
-3.  Evaluating 3 different lexicons:
+1. `unnest_tokens()` - *Seperate text into rowes of single words*
+2. `anti_join()` - *Drop uninteresting words (stop words)*
+3.  `get_sentiment()` - *Evaluating 3 different lexicons:*
 - Bing
 - NRC
 - AFINN

@@ -1,9 +1,12 @@
 # Seinfeld text analysis using `R`
 
 ## Objectives
-- **Sentiment analysis of Seinfeld scripts** - positive and negative sentiments.
-- **Identify "catchpharses", common themes, and inside jokes** - word frequency and relationships.
-- **Word correlation** - how are certain words related?
+- **Sentiment analysis of Seinfeld scripts**
+    - Positive and negative sentiments across different lexicons
+- **Identify "catchpharses", common themes, and inside jokes**
+    -  Word frequency and relationships
+- **Word correlation**
+    - How are certain words related?
 - **Wrangle and visualize insightful relationships**...
 
 ## Methods

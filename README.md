@@ -18,7 +18,7 @@
 ### Character Bigrams
 > **Bigrams:** Pairs of consecutive words grouped by character with counts
 1. `unnest_tokens(bigram)` - *Seperate text into rows of two words*
-2. `filter()` - *Remove common stop words and selected words, keep only selected characters*
+2. `filter()` - *Remove common stop words and selected words, keep only selected show characters*
 3. `group_by()` - *Group by character and get counts of bigrams*
 ## Citations
 - [Seinfeld data](https://www.kaggle.com/datasets/thec03u5/seinfeld-chronicles)

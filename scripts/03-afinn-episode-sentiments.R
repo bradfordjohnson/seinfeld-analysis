@@ -18,34 +18,27 @@ stp_wrds <- get_stopwords(source = "smart")
 
 scripts_new <- anti_join(scripts, stp_wrds, by = "word")
 
-nrc <- get_sentiments(lexicon = "nrc")
+afinn <- get_sentiments(lexicon = "afinn")
 
-db_nrc <- inner_join(scripts_new, nrc, by = "word")
+db_afinn <- inner_join(scripts_new, afinn, by = "word")
 
-db_nrc <- count(db_nrc, x1, character, episode_no,
-                 seid, season, word, sentiment)
-
-db_nrc <- spread(key = sentiment, value = n, fill = 0, data = db_nrc)
-
-db_nrc <- mutate(sentiment = positive - negative, .data = db_nrc)
-
-db_nrc$character <- str_to_title(db_nrc$character)
+db_afinn$character <- str_to_title(db_afinn$character)
 
 character_filter <- c("Jerry", "Kramer", "George", "Elaine")
 
-db_nrc <- db_nrc |>
+db_afinn <- db_afinn |>
   filter(character %in% character_filter)
 
 # check for anomalies
-word_check <- db_nrc %>%
+word_check <- db_afinn %>%
   group_by(word) %>%
-  summarise(n=n(), sent = sum(sentiment)) %>%
+  summarise(n=n(), sent = sum(value)) %>%
   arrange(desc(n))
   # anomalies:
 
-mean_episode_sentiments <- db_nrc %>%
+mean_episode_sentiments <- db_afinn %>%
   group_by(seid) %>%
-  summarise(mean_sent = round(mean(sentiment),2))
+  summarise(mean_sent = round(mean(value),2))
 
 # export episode sentiments
-write_csv(mean_episode_sentiments, "02-nrc-episode-sentiments.csv")
+write_csv(mean_episode_sentiments, "03-afinn-episode-sentiments.csv")

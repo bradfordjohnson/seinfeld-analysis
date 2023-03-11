@@ -10,3 +10,6 @@
 
 ## Methods
 <!--- maybe break down by step and give brief summary, such as data wrangling with tidytext to seperate words grouped by "x" to investigate "y" --->
+
+## Citations
+[NRC Sentiment Lexicon](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8640.2012.00460.x)

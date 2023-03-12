@@ -3,8 +3,11 @@ pacman::p_load(tidyverse,
                tidyquant,
                ggdist,
                ggthemes,
-               ggtext)
+               ggtext,
+               showtext,
+               htmltools)
 
+showtext_auto()
 # load data
 lex <- read_csv("data/sentiment/04-combined-lex.csv")
 
@@ -15,6 +18,25 @@ lex <- lex %>%
     lex == "bing" ~ "Bing",
     lex == "afinn" ~ "AFINN"
   ))
+
+# load fonts
+font_add(family = "fb",
+         regular = "data/fonts/Font Awesome 6 Brands-Regular-400.otf")
+
+font_add_google(name = "Hind", family = "Hind")
+font1 <- "Hind"
+
+font_add_google(name = "Average", family = "Average")
+font2 <- "Average"
+
+font_add_google(name = "Dosis", family = "Dosis")
+
+font_add_google(name = "Ubuntu", family = "Ubuntu")
+
+# load caption
+caption = paste0("<span style='font-family:fb;'>&#xf09b;</span>",
+                 "<span style='font-family:sans;color:#1F2133;'>.</span>",
+                 "<span style='font-family:Dosis;'>bradfordjohnson</span>")
 
 # visualize sentiment
 lex %>%
@@ -70,54 +92,53 @@ lex %>%
   theme_tq() +
   coord_flip() +
   geom_text(
-    aes(x = .01, y = 1),
+    aes(x = .05, y = 1),
     label = "Positive",
-    color = "#82889B"
-    ) +
-  geom_text(
-    aes(x = .01, y = -1),
-    label = "Negative",
-    color = "#82889B"
-    ) +
-  geom_text(
-    aes(x = 1, y = -1),
-    label = "AFINN",
-    color = "#A1566E"
-  ) +
-  geom_text(
-    aes(x = 2, y = -1),
-    label = "Bing",
-    color = "#DF7C6C"
-  ) +
-  geom_text(
-    aes(x = 3, y = -1),
-    label = "NRC",
-    color = "#FFB462"
-  ) +
-  geom_curve(
-    aes(
-      x = 2, y = .7, xend = 1.87, yend = .49
-      ),
-    arrow = arrow(length = unit(2,"mm"),
-      type = "closed"
-      ),
     color = "#82889B",
-    curvature = -.5
+    family = font1,
+    size = 4
     ) +
   geom_text(
-    aes(x = 2.15, y = .82),
-    label = "Single Episode",
-    color = "#82889B"
+    aes(x = .05, y = -1),
+    label = "Negative",
+    color = "#82889B",
+    family = font1,
+    size = 4
     ) +
+  geom_text(
+    aes(x = 1, y = -.73),
+    label = "AFINN",
+    color = "#A1566E",
+    family = font1
+  ) +
+  geom_text(
+    aes(x = 2, y = -.62),
+    label = "Bing",
+    color = "#DF7C6C",
+    family = font1
+  ) +
+  geom_text(
+    aes(x = 3, y = -.3),
+    label = "NRC",
+    color = "#FFB462",
+    family = font1
+  ) +
   labs(
     y = "Sentiment",
-    title = "  
-Seinfeld Script Analysis
-       ",
-    subtitle = "<span style='color:#82889B'>Seinfeld had 180 episodes during the  
-    9 seasons it aired on TV. Featuring  
-    over 54,000 lines of text in the script.
+    title = "Seinfeld Episode Sentiment",
+    subtitle = "<span style='font-family:Ubuntu;'>Seinfeld had 180 episodes during the 9 seasons it aired on TV, featuring over 54,000 lines of text in the script.  
+    The sentiments of Jerry, George, Kramer and Elaine for are visualized as an average for each episode. Each dot  
+    on the raincloud plot represents an episode,  and the location of the dot shows the sentiment.  
+    <br>
+    There are three lexicons used to evaluate sentiment, these are shown by the different colored dots, boxplots  
+    and density curves. The reason for the lexicons having varying sentiments when given the same data is because  
+    they ach approach sentiment with different method. This visual shows why it is important to know about these  
+    nuisances when conducting sentiment analysis.  
+    <br>
+    The <span style='color:#FFB462'>NRC lexicon</span> shows a more <span style='color:#FFB462'>positive sentiment</span> for Seinfeld episodes, while <span style='color:#DF7C6C'>Bing</span> shows they are more <span style='color:#DF7C6C'>negative</span>.  
+    Using the <span style='color:#A1566E'>AFINN</span> lexicon the sentiment is shown as even more <span style='color:#A1566E'>positive</span> than the others.</span>
     ",
+    caption = caption
   )+
   theme(
     legend.position = "none",
@@ -129,9 +150,9 @@ Seinfeld Script Analysis
     panel.background = element_rect(fill = "#1F2133",
                                     colour = "#1F2133"),
     axis.text.y = element_blank(),
-    axis.text.x = element_text(color = "#82889B"),
+    axis.text.x = element_text(color = "#82889B", family = font1, size = 12),
     axis.title.y = element_blank(),
-    axis.title.x = element_text(color = "#82889B"),
+    axis.title.x = element_text(color = "#82889B", family = font1),
     axis.line.x = element_line(colour = "#82889B",
                                arrow = arrow(
                                  length = unit(2,"mm"),
@@ -139,7 +160,13 @@ Seinfeld Script Analysis
                                  ends = "both"
                                  )
                                ),
-    plot.title = element_text(color = "#82889B"),
-    plot.subtitle = element_markdown(hjust = 0, size = 9, lineheight = 1)
-)
+    plot.title = element_text(color = "#82889B", family = font2, size = 58,
+                              margin = margin(0,0,4,0,"mm")),
+    plot.subtitle = ggtext::element_textbox_simple(color = "#82889B",
+                                                   lineheight = 1,
+                                                   size = 20,
+                                                   margin = margin(2,0,6,0,"mm")),
+    plot.caption = ggtext::element_textbox_simple(color="#82889B", size = 15, margin = margin(0,2,0,0,"mm")),
+    plot.margin = unit(c(5,5,5,5),"mm"))
 
+#ggsave("seinfeld-sentiment.png", dpi = 300)

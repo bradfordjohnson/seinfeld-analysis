@@ -125,18 +125,15 @@ lex %>%
   ) +
   labs(
     y = "Sentiment",
-    title = "Seinfeld Episode Sentiment",
-    subtitle = "<span style='font-family:Ubuntu;'>Seinfeld had 180 episodes during the 9 seasons it aired on TV, featuring over 54,000 lines of text in the script.  
-    The sentiments of Jerry, George, Kramer and Elaine for are visualized as an average for each episode. Each dot  
-    on the raincloud plot represents an episode,  and the location of the dot shows the sentiment.  
+    title = "Seinfeld: Not just a show about nothing",
+    subtitle = "<span style='font-family:Ubuntu;'>Seinfeld had 180 episodes during the 9 seasons it aired on TV, featuring over 54,000 lines of text in the  
+    scripts. The script sentiments of Jerry, George, Kramer and Elaine are visualized as an average for each  
+    episode. Each dot on the raincloud plot represents an episode and the relative average sentiment.  
     <br>
-    There are three lexicons used to evaluate sentiment, these are shown by the different colored dots, boxplots  
-    and density curves. The reason for the lexicons having varying sentiments when given the same data is because  
-    they ach approach sentiment with different method. This visual shows why it is important to know about these  
-    nuisances when conducting sentiment analysis.  
-    <br>
-    The <span style='color:#FFB462'>NRC lexicon</span> shows a more <span style='color:#FFB462'>positive sentiment</span> for Seinfeld episodes, while <span style='color:#DF7C6C'>Bing</span> shows they are more <span style='color:#DF7C6C'>negative</span>.  
-    Using the <span style='color:#A1566E'>AFINN</span> lexicon the sentiment is shown as even more <span style='color:#A1566E'>positive</span> than the others.</span>
+    Three lexicon dictionaries were used to identify the sentiment, shown by different colored features.  
+    The <span style='color:#FFB462'>NRC lexicon</span> shows an overall <span style='color:#FFB462'>positive sentiment</span> for Seinfeld episodes, while the <span style='color:#DF7C6C'>Bing lexicon</span>  
+    shows epidodes are <span style='color:#DF7C6C'>more negative</span>. Using the <span style='color:#A1566E'>AFINN lexicon</span> the sentiment is shown as <span style='color:#A1566E'>more  
+    positive</span>.</span>
     ",
     caption = caption
   )+

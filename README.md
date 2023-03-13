@@ -52,6 +52,11 @@
     </a>
  </p>
  
+## What I Learned
+- How to use lexicons and "tune" them for a specific need
+- How to filter words like stop words, and customize the lists of words
+- Using `bigrams`, `trigrams`, and `correlation` to identify common themes and trends
+- How to implement these methods to paint the bigger picture
 ## Citations
 ### Data
 - [Seinfeld data](https://www.kaggle.com/datasets/thec03u5/seinfeld-chronicles)

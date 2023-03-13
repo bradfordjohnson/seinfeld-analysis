@@ -35,6 +35,15 @@
 1. `unnest_tokens(bigram)` - *Seperate text into rows of two words*
 2. `filter()` - *Remove common stop words and selected words*
 3. `count()` - *Get counts of bigrams*
+
+## Visuals
+### Sentiment Raincloud
+<p align= "center">
+    <a href="https://github.com/bradfordjohnson/seinfeld-analysis/blob/main/scripts/sentiment/06-visualize-sentiment.R"> 
+  <img src="visuals/01-seinfeld-sentiment.png" width="70%" /> 
+    </a>
+ </p>
+ 
 ## Citations
 - [Seinfeld data](https://www.kaggle.com/datasets/thec03u5/seinfeld-chronicles)
 - Mohammad, S.M. and Turney, P.D. (2013), CROWDSOURCING A WORD–EMOTION ASSOCIATION LEXICON. Computational Intelligence, 29: 436-465. [https://doi.org/10.1111/j.1467-8640.2012.00460.x](https://doi.org/10.1111/j.1467-8640.2012.00460.x)

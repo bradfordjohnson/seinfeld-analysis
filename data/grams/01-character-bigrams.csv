@@ -15,6 +15,7 @@ Jerry,bye,hangs,13
 Jerry,gonna,call,13
 Jerry,jean,paul,13
 Jerry,tv,guide,13
+Kramer,serenity,now,13
 George,heh,heh,12
 George,lloyd,braun,12
 George,yada,yada,12
@@ -36,6 +37,7 @@ Kramer,newman's,ear,9
 Elaine,label,maker,8
 Elaine,soup,nazi,8
 Elaine,thousand,dollars,8
+Frank,serenity,now,8
 George,jerk,store,8
 George,keith,hernandez,8
 Jerry,super,bowl,8
@@ -65,6 +67,7 @@ Kramer,air,conditioner,7
 Kramer,alright,alright,7
 Kramer,drop,dead,7
 Kramer,hoo,hoo,7
+Kramer,now,listen,7
 Kramer,puffy,shirt,7
 Kramer,table,book,7
 Elaine,alright,alright,6
@@ -78,6 +81,7 @@ Elaine,mm,hmm,6
 Elaine,money,money,6
 Elaine,tim,whatley,6
 Elaine,yankee,bean,6
+Frank,tv,guide,6
 George,candy,bar,6
 George,double,parked,6
 George,god,bless,6
@@ -107,6 +111,7 @@ Kramer,claps,hands,6
 Kramer,death,blow,6
 Kramer,hundred,dollars,6
 Kramer,joe,dimaggio,6
+Kramer,now,serenity,6
 Kramer,south,america,6
 Kramer,van,buren,6
 Elaine,3,squares,5
@@ -121,6 +126,9 @@ Elaine,phone,rings,5
 Elaine,prognosis,negative,5
 Elaine,saturday,night,5
 Elaine,ten,minutes,5
+Frank,boca,vista,5
+Frank,del,boca,5
+George,alright,now,5
 George,art,vandelay,5
 George,bald,woman,5
 George,bye,hangs,5
@@ -133,6 +141,7 @@ George,hell,happened,5
 George,nice,guy,5
 George,peanut,butter,5
 George,plane,crash,5
+George,play,now,5
 George,prognosis,negative,5
 George,red,dot,5
 George,saturday,night,5
@@ -141,6 +150,7 @@ George,ten,dollars,5
 George,woo,woo,5
 Jerry,alarm,clock,5
 Jerry,bye,bye,5
+Jerry,care,now,5
 Jerry,charles,grodin,5
 Jerry,chinese,restaurant,5
 Jerry,comedy,club,5
@@ -171,6 +181,7 @@ Kramer,friend,bob,5
 Kramer,hot,tub,5
 Kramer,jon,voight,5
 Kramer,miss,america,5
+Kramer,now,now,5
 Kramer,puerto,rico,5
 Kramer,super,terrific,5
 Kramer,whoa,whoa,5
@@ -183,6 +194,7 @@ Elaine,de,mayo,4
 Elaine,denim,vest,4
 Elaine,god,bless,4
 Elaine,gonna,call,4
+Elaine,now,listen,4
 Elaine,phone,call,4
 Elaine,skinny,mirrors,4
 Elaine,tape,recorder,4
@@ -191,6 +203,7 @@ Elaine,whoa,whoa,4
 Elaine,witchy,woman,4
 Elaine,wooden,teeth,4
 Elaine,yada,yada,4
+Frank,stopped,short,4
 George,"1,900",dollars,4
 George,ah,ah,4
 George,ahh,ah,4
@@ -255,6 +268,7 @@ Jerry,egg,white,4
 Jerry,elevator,doors,4
 Jerry,fell,asleep,4
 Jerry,fifty,bucks,4
+Jerry,funny,now,4
 Jerry,god,bless,4
 Jerry,golden,boy,4
 Jerry,gonna,leave,4
@@ -352,6 +366,9 @@ Elaine,upper,lip,3
 Elaine,vegetable,lasagna,3
 Elaine,water,pik,3
 Elaine,whats,happening,3
+Frank,hoochie,mama,3
+Frank,tommy,tune,3
+Frank,wanna,bet,3
 George,15,minutes,3
 George,5th,avenue,3
 George,81st,street,3
@@ -396,6 +413,7 @@ George,gotta,run,3
 George,gotta,talk,3
 George,half,hour,3
 George,hampton,tomatoes,3
+George,happy,now,3
 George,health,club,3
 George,hot,dogs,3
 George,hot,tub,3
@@ -460,6 +478,7 @@ Jerry,buddy,boy,3
 Jerry,buffer,zone,3
 Jerry,buh,bye,3
 Jerry,burns,baseball,3
+Jerry,call,now,3
 Jerry,call,waiting,3
 Jerry,cheque,book,3
 Jerry,chicken,salad,3
@@ -521,6 +540,7 @@ Jerry,pez,dispenser,3
 Jerry,phone,walk,3
 Jerry,pimple,popper,3
 Jerry,pkew,pkew,3
+Jerry,play,now,3
 Jerry,presses,button,3
 Jerry,private,jet,3
 Jerry,red,shirt,3
@@ -551,6 +571,7 @@ Jerry,ya,gonna,3
 Jerry,youre,engaged,3
 Jerry,youve,gotta,3
 Kramer,24,hours,3
+Kramer,alright,now,3
 Kramer,ba,boom,3
 Kramer,birthday,card,3
 Kramer,boom,ba,3
@@ -595,6 +616,7 @@ Kramer,merry,christmas,3
 Kramer,merv,griffin,3
 Kramer,mickey,mantle,3
 Kramer,movie,phone,3
+Kramer,now,calm,3
 Kramer,overly,excited,3
 Kramer,pitched,voice,3
 Kramer,pottery,barn,3
@@ -608,6 +630,7 @@ Kramer,smacks,hands,3
 Kramer,snaps,fingers,3
 Kramer,starts,coughing,3
 Kramer,thirty,percent,3
+Kramer,time,now,3
 Kramer,twenty,minutes,3
 Kramer,um,hm,3
 Kramer,wanna,lose,3
@@ -746,6 +769,7 @@ Elaine,kurt's,driver's,2
 Elaine,laughing,quietly,2
 Elaine,laughs,nervously,2
 Elaine,leaning,forward,2
+Elaine,leave,now,2
 Elaine,lip,landed,2
 Elaine,lock,smith,2
 Elaine,lucky,day,2
@@ -766,6 +790,7 @@ Elaine,nice,listen,2
 Elaine,nicole,millers,2
 Elaine,nina,nina,2
 Elaine,nobody's,business,2
+Elaine,now,lookit,2
 Elaine,o'henry,candy,2
 Elaine,o.k,bye,2
 Elaine,office,skank,2
@@ -839,6 +864,13 @@ Elaine,ya,feeling,2
 Elaine,yep,yep,2
 Elaine,yi,yi,2
 Elaine,yuri,testikov,2
+Frank,arm,moves,2
+Frank,bra,salesman,2
+Frank,carlo,costanza,2
+Frank,foot,odour,2
+Frank,mayor,dinkins,2
+Frank,now,serenity,2
+Frank,sid,farkus,2
 George,129,west,2
 George,240,bucks,2
 George,3,days,2
@@ -886,6 +918,7 @@ George,buh,bye,2
 George,buy,food,2
 George,call,susan,2
 George,called,susan,2
+George,car,now,2
 George,car,phone,2
 George,career,day,2
 George,carpet,cleaners,2
@@ -1094,6 +1127,8 @@ George,nervous,breakdown,2
 George,nervous,chuckle,2
 George,nervous,laughter,2
 George,night,club,2
+George,now,listen,2
+George,now,shut,2
 George,ooh,ooh,2
 George,ostrich,burger,2
 George,outta,shrimp,2
@@ -1149,6 +1184,7 @@ George,screen,door,2
 George,secret,code,2
 George,seemingly,seemingly,2
 George,sell,computers,2
+George,serenity,now,2
 George,serial,killer,2
 George,service,test,2
 George,shakes,hands,2
@@ -1392,6 +1428,7 @@ Jerry,fire,engines,2
 Jerry,fire,escape,2
 Jerry,flaming,globes,2
 Jerry,flea,market,2
+Jerry,food,now,2
 Jerry,frankie,merman,2
 Jerry,funny,story,2
 Jerry,g.i,joe,2
@@ -1518,6 +1555,9 @@ Jerry,nice,duds,2
 Jerry,nice,gesture,2
 Jerry,nice,job,2
 Jerry,ninth,grade,2
+Jerry,now,im,2
+Jerry,now,listen,2
+Jerry,now,people,2
 Jerry,nude,model,2
 Jerry,o.k,bye,2
 Jerry,ocean,called,2
@@ -1538,6 +1578,7 @@ Jerry,paying,attention,2
 Jerry,pbt,pbt,2
 Jerry,peanut,butter,2
 Jerry,pee,party,2
+Jerry,pen,now,2
 Jerry,pennsylvania,dutch,2
 Jerry,people,dont,2
 Jerry,people,happy,2
@@ -1549,6 +1590,7 @@ Jerry,phone,ah,2
 Jerry,phone,company,2
 Jerry,phone,dad,2
 Jerry,phone,machine,2
+Jerry,phone,now,2
 Jerry,physical,therapist,2
 Jerry,pink,lining,2
 Jerry,pinkish,hue,2
@@ -1757,6 +1799,7 @@ Kramer,crook,eye,2
 Kramer,cuban,cigars,2
 Kramer,david,puddy,2
 Kramer,delicious,mmm,2
+Kramer,door,now,2
 Kramer,double,crunch,2
 Kramer,dry,cleaner,2
 Kramer,dry,cleaning,2
@@ -1866,6 +1909,7 @@ Kramer,nineteen,ninety,2
 Kramer,noh,noh,2
 Kramer,nose,job,2
 Kramer,note,cards,2
+Kramer,now,gimme,2
 Kramer,o'henry,candy,2
 Kramer,oil,tankers,2
 Kramer,pam,pam,2
@@ -1880,6 +1924,7 @@ Kramer,phone,call,2
 Kramer,pinky,toe,2
 Kramer,pitched,yelping,2
 Kramer,playing,golf,2
+Kramer,pleading,now,2
 Kramer,pocket,watch,2
 Kramer,poise,counts,2
 Kramer,polar,bear,2
@@ -1923,6 +1968,7 @@ Kramer,starts,walking,2
 Kramer,stink,eye,2
 Kramer,suit,cover,2
 Kramer,super,hydrating,2
+Kramer,support,now,2
 Kramer,support,undergarment,2
 Kramer,sweet,kid,2
 Kramer,talking,fast,2
@@ -2149,6 +2195,7 @@ Elaine,art,history,1
 Elaine,artie,shaw,1
 Elaine,artist,y'know,1
 Elaine,asian,americans,1
+Elaine,assignments,now,1
 Elaine,assistant,caught,1
 Elaine,associate,walks,1
 Elaine,astro,naut,1
@@ -2169,6 +2216,7 @@ Elaine,avoid,fighting,1
 Elaine,avoiding,eye,1
 Elaine,aw,glenn,1
 Elaine,aw,kl5,1
+Elaine,aw,now,1
 Elaine,away.ha,haa,1
 Elaine,awful,poor,1
 Elaine,awkward,increasingly,1
@@ -2179,6 +2227,7 @@ Elaine,ba,boom,1
 Elaine,baaah,boo,1
 Elaine,babu,ba,1
 Elaine,babu,bhatt,1
+Elaine,babu,now,1
 Elaine,baby,anymore,1
 Elaine,baby,baby,1
 Elaine,baby,period,1
@@ -2259,6 +2308,7 @@ Elaine,bes,tman,1
 Elaine,beth's,toot,1
 Elaine,bicycling,roller,1
 Elaine,bid,sue,1
+Elaine,bidding,now,1
 Elaine,bike,indicating,1
 Elaine,bike,newman,1
 Elaine,bills,magazines,1
@@ -2288,6 +2338,7 @@ Elaine,bloomingdales,waiting,1
 Elaine,blowing,nose,1
 Elaine,blown,shocks,1
 Elaine,blue,car,1
+Elaine,blunter,now,1
 Elaine,bob,bob,1
 Elaine,bob,grossberg,1
 Elaine,bob,sacamano,1
@@ -2362,7 +2413,9 @@ Elaine,buddy,greg,1
 Elaine,budget,movie,1
 Elaine,bug,guy,1
 Elaine,bugs,bunny,1
+Elaine,building,now,1
 Elaine,bulimic,chain,1
+Elaine,bullfighter,now,1
 Elaine,bumper,sticker,1
 Elaine,bunny,cartoons,1
 Elaine,bunny,giving,1
@@ -2395,6 +2448,7 @@ Elaine,buzzer,sounds,1
 Elaine,bye,alison,1
 Elaine,bye,bobby,1
 Elaine,bye,eeeen,1
+Elaine,bye,now,1
 Elaine,bye,russell,1
 Elaine,bye,shuts,1
 Elaine,bye,wendy,1
@@ -2410,6 +2464,7 @@ Elaine,cable,show's,1
 Elaine,cadillac,impressed,1
 Elaine,cage,filled,1
 Elaine,cajun,cooking,1
+Elaine,cake,now,1
 Elaine,cake,party,1
 Elaine,cake,peterman,1
 Elaine,cake,walk,1
@@ -2449,10 +2504,12 @@ Elaine,car,hands,1
 Elaine,car,hes,1
 Elaine,car,hit,1
 Elaine,car,maniac,1
+Elaine,car,now,1
 Elaine,car,pile,1
 Elaine,car,tires,1
 Elaine,car,twenty,1
 Elaine,card,embarrassed,1
+Elaine,card,now,1
 Elaine,card,reading,1
 Elaine,care,im,1
 Elaine,cares,alright,1
@@ -2606,6 +2663,7 @@ Elaine,completely,loco,1
 Elaine,completely,lost,1
 Elaine,completely,oblivious,1
 Elaine,completely,upside,1
+Elaine,componant,now,1
 Elaine,con,dios,1
 Elaine,concept,ohh,1
 Elaine,concussion,calm,1
@@ -2719,6 +2777,7 @@ Elaine,day,person,1
 Elaine,days,ago,1
 Elaine,de,lish,1
 Elaine,dead,imagine,1
+Elaine,dead,now,1
 Elaine,dead,wearing,1
 Elaine,deadline,extended,1
 Elaine,deaf,date,1
@@ -2797,9 +2856,11 @@ Elaine,dog,food,1
 Elaine,dog,guy,1
 Elaine,dog,inside,1
 Elaine,dogs,chasing,1
+Elaine,dogs,now,1
 Elaine,doin,saturday,1
 Elaine,dollar,fine,1
 Elaine,dollars,left,1
+Elaine,dollars,now,1
 Elaine,dollor,idea,1
 Elaine,don,ramsey,1
 Elaine,donna,chang,1
@@ -2861,6 +2922,7 @@ Elaine,easy,bye,1
 Elaine,eat,chinese,1
 Elaine,eat,dessert,1
 Elaine,eat,fish,1
+Elaine,eat,now,1
 Elaine,eat,oreos,1
 Elaine,eaten,23,1
 Elaine,eatin,olives,1
@@ -3127,6 +3189,7 @@ Elaine,funny,annoyed,1
 Elaine,funny,business,1
 Elaine,funny,gift,1
 Elaine,funny,guy,1
+Elaine,funny,now,1
 Elaine,funny,stories,1
 Elaine,funny,story,1
 Elaine,funny,um,1
@@ -3348,6 +3411,7 @@ Elaine,happen,overnight,1
 Elaine,happened,understand,1
 Elaine,happened,what'd,1
 Elaine,happiness,yep,1
+Elaine,happy,now,1
 Elaine,happy,people,1
 Elaine,hard,target,1
 Elaine,hardened,red,1
@@ -3670,6 +3734,7 @@ Elaine,kenny,rogers,1
 Elaine,kenya,africa,1
 Elaine,keri's,stuff,1
 Elaine,kevin,shake,1
+Elaine,keys,now,1
 Elaine,kidneys,burst,1
 Elaine,killer,putting,1
 Elaine,kim,called,1
@@ -3814,6 +3879,7 @@ Elaine,lose,weight,1
 Elaine,losing,patience,1
 Elaine,lost,6,1
 Elaine,lost,complete,1
+Elaine,lost,now,1
 Elaine,lost,respect,1
 Elaine,lost,ricky,1
 Elaine,lost,weight,1
@@ -4061,6 +4127,7 @@ Elaine,muttering,motels,1
 Elaine,mysterious,glonk,1
 Elaine,mystery,wrapped,1
 Elaine,nah,nah,1
+Elaine,nah,now,1
 Elaine,naked,ahh,1
 Elaine,naked,lois,1
 Elaine,naked,people,1
@@ -4120,6 +4187,7 @@ Elaine,nicole,miller,1
 Elaine,night,dad,1
 Elaine,night,doorman,1
 Elaine,night,jason,1
+Elaine,night,now,1
 Elaine,night,susie,1
 Elaine,nina,feeling,1
 Elaine,nina,slept,1
@@ -4145,6 +4213,18 @@ Elaine,noticed,excuse,1
 Elaine,noticed,people,1
 Elaine,notices,alan's,1
 Elaine,noticing,ava,1
+Elaine,now,duncan,1
+Elaine,now,ehh,1
+Elaine,now,fix,1
+Elaine,now,gotta,1
+Elaine,now,hes,1
+Elaine,now,hit,1
+Elaine,now,joe,1
+Elaine,now,lippman,1
+Elaine,now,now,1
+Elaine,now,owen,1
+Elaine,now,pay,1
+Elaine,now,reading,1
 Elaine,nudist,colonies,1
 Elaine,nudist,colony,1
 Elaine,number's,coming,1
@@ -4209,6 +4289,7 @@ Elaine,outta,guys,1
 Elaine,overly,excited,1
 Elaine,overly,generous,1
 Elaine,overnight,robert's,1
+Elaine,overrated,now,1
 Elaine,ow,careful,1
 Elaine,ow,god,1
 Elaine,ow,move,1
@@ -4264,6 +4345,7 @@ Elaine,pay,todd,1
 Elaine,paying,attention,1
 Elaine,paying,glenn,1
 Elaine,paying,network,1
+Elaine,peanut,now,1
 Elaine,pedestrian,crosswalk,1
 Elaine,pee,stain,1
 Elaine,peggy,um,1
@@ -4290,6 +4372,7 @@ Elaine,perfect,proportion,1
 Elaine,perfect,view,1
 Elaine,perfectly,edible,1
 Elaine,perfectly,honest,1
+Elaine,period,now,1
 Elaine,person,waiting,1
 Elaine,personal,affairs,1
 Elaine,personal,commitment,1
@@ -4376,6 +4459,7 @@ Elaine,pleasant,surprise,1
 Elaine,pleasantly,surprised,1
 Elaine,pleasantries,hes,1
 Elaine,pleased,ah,1
+Elaine,pleased,now,1
 Elaine,plo,blend,1
 Elaine,podiatrists,arent,1
 Elaine,podiatry,school,1
@@ -4468,6 +4552,7 @@ Elaine,pygmy,pullover,1
 Elaine,quadramatic,transmission,1
 Elaine,queens,boulevard,1
 Elaine,queens,convalescent,1
+Elaine,queens,now,1
 Elaine,question,isnt,1
 Elaine,question,leaves,1
 Elaine,questions,bleh,1
@@ -4611,11 +4696,13 @@ Elaine,safety,school,1
 Elaine,sales,commission,1
 Elaine,sales,woman,1
 Elaine,salesman,boyfriend,1
+Elaine,salesman,now,1
 Elaine,saleswoman,excuse,1
 Elaine,sally,weaver,1
 Elaine,sally's,cable,1
 Elaine,salman,rushdie,1
 Elaine,salt,stain,1
+Elaine,salvador,now,1
 Elaine,sam,listen,1
 Elaine,sam,trashed,1
 Elaine,sam,walks,1
@@ -4657,6 +4744,7 @@ Elaine,screen,door,1
 Elaine,screen,quit,1
 Elaine,screen,tv,1
 Elaine,screening,process,1
+Elaine,se,now,1
 Elaine,seat,saving,1
 Elaine,seatbelt,alright,1
 Elaine,secret,gang,1
@@ -4944,9 +5032,11 @@ Elaine,stories,david,1
 Elaine,stories,holds,1
 Elaine,story,class,1
 Elaine,story,cynthia,1
+Elaine,story,now,1
 Elaine,story,straight,1
 Elaine,straight,armed,1
 Elaine,straight,dope,1
+Elaine,straight,now,1
 Elaine,strands,hanging,1
 Elaine,strangle,eighteen,1
 Elaine,strangling,rrr,1
@@ -5100,6 +5190,7 @@ Elaine,tickle,tickle,1
 Elaine,timberlands,painted,1
 Elaine,timbuktu,hits,1
 Elaine,time,magazine,1
+Elaine,time,now,1
 Elaine,time,patience,1
 Elaine,time,served,1
 Elaine,time,um,1
@@ -5130,6 +5221,7 @@ Elaine,tomorrow,evening,1
 Elaine,tomorrow,morning,1
 Elaine,tomorrow,night's,1
 Elaine,tone,david,1
+Elaine,tongue,now,1
 Elaine,tonight,hum,1
 Elaine,tonsils,grow,1
 Elaine,toot,sweet,1
@@ -5207,6 +5299,7 @@ Elaine,um,excuse,1
 Elaine,um,hearing,1
 Elaine,um,hold,1
 Elaine,um,hum,1
+Elaine,um,now,1
 Elaine,um,painted,1
 Elaine,um,remember,1
 Elaine,um,started,1
@@ -5241,6 +5334,7 @@ Elaine,unseasonably,cool,1
 Elaine,unselfish,act,1
 Elaine,unusable,thumbs,1
 Elaine,unwind,aah,1
+Elaine,unwind,now,1
 Elaine,upscale,clientele,1
 Elaine,urban,legend,1
 Elaine,urine,sample,1
@@ -5499,6 +5593,294 @@ Elaine,zach,vomits,1
 Elaine,zealously,french,1
 Elaine,ziggy,bed,1
 Elaine,zip,sticks,1
+Frank,2,o'clock,1
+Frank,7th,avenue,1
+Frank,aaaaa,snapping,1
+Frank,admire,morty,1
+Frank,ah,jumps,1
+Frank,alight,bye,1
+Frank,alright,picking,1
+Frank,anger,sid,1
+Frank,animal,serenity,1
+Frank,apple,pie,1
+Frank,arm,move,1
+Frank,athletic,sweat,1
+Frank,attention,starts,1
+Frank,baby,doll,1
+Frank,bad,news,1
+Frank,bad,people,1
+Frank,beautiful,mercury,1
+Frank,beautiful,vacation,1
+Frank,bench,seat,1
+Frank,bet,serenity,1
+Frank,biiig,apple,1
+Frank,billiard,parlor,1
+Frank,billiard,scolding,1
+Frank,black,tie,1
+Frank,blood,pressure,1
+Frank,blows,opon,1
+Frank,bobby,colby,1
+Frank,body,weight,1
+Frank,bourbon,street,1
+Frank,bowl,lemme,1
+Frank,braun,costanza's,1
+Frank,braun,lloyd,1
+Frank,breathe,easier,1
+Frank,breeze,coming,1
+Frank,brought,costanza,1
+Frank,bum,sleeping,1
+Frank,cabana,shirt,1
+Frank,cabana,wear,1
+Frank,cable,tv,1
+Frank,candles,blow,1
+Frank,casette,tapes,1
+Frank,catered,affair,1
+Frank,caught,dead,1
+Frank,celebrated,festivus,1
+Frank,celebrating,festivus,1
+Frank,cha,cha,1
+Frank,cha,record,1
+Frank,chicken,something's,1
+Frank,child,celebrating,1
+Frank,chinese,food,1
+Frank,christmases,ago,1
+Frank,clapping,hands,1
+Frank,claps,hands,1
+Frank,clothes,grabbing,1
+Frank,clothes,smacks,1
+Frank,coin,disappear,1
+Frank,coming,home,1
+Frank,company,stinks,1
+Frank,confidential,estelle's,1
+Frank,cook,uncle,1
+Frank,corkscrew,pasta,1
+Frank,costanza,morning,1
+Frank,costanza's,kicking,1
+Frank,coupe,de,1
+Frank,cousin,carlo,1
+Frank,cousin,frank,1
+Frank,cousin,hennie,1
+Frank,crate,inside,1
+Frank,crawl,space,1
+Frank,creative,black,1
+Frank,cruise,wear,1
+Frank,cup,sizes,1
+Frank,damn,candles,1
+Frank,dancer,hits,1
+Frank,de,elegance,1
+Frank,dear,friends,1
+Frank,defective,brakes,1
+Frank,deliberate,deliberate,1
+Frank,demonstrates,hmmph,1
+Frank,derogatory,comment,1
+Frank,dinkins,now,1
+Frank,dinkins,set,1
+Frank,dinner,invitation,1
+Frank,dinner,tonight,1
+Frank,doc,million,1
+Frank,doll,ridiculous,1
+Frank,dollar,collection,1
+Frank,door,unlocked,1
+Frank,doorbell,rings,1
+Frank,dumbbell,yesterday,1
+Frank,eggplant,parmesan,1
+Frank,eighteen,hour,1
+Frank,elbow,jimmy,1
+Frank,empty,hand,1
+Frank,eno,enoa,1
+Frank,enoa,juang,1
+Frank,estelle,forty,1
+Frank,estelle,leaves,1
+Frank,estelle,nods,1
+Frank,estelle,referring,1
+Frank,examining,magazine,1
+Frank,examining,mail,1
+Frank,eye,job,1
+Frank,feel,ten,1
+Frank,feel,vigorous,1
+Frank,fell,reborn,1
+Frank,festivus,begins,1
+Frank,festivus,dinner,1
+Frank,festivus,rolls,1
+Frank,fi,hands,1
+Frank,fighting,103rd,1
+Frank,fingers,spasm,1
+Frank,fired,costanza,1
+Frank,flight,home,1
+Frank,frank,attempts,1
+Frank,frank,costanza,1
+Frank,franks,pushes,1
+Frank,gamble,cosmo,1
+Frank,george's,arm,1
+Frank,george's,forehead,1
+Frank,gis,found,1
+Frank,glass,doors,1
+Frank,gonna,hear,1
+Frank,gonna,kill,1
+Frank,gotta,stop,1
+Frank,greenwich,village,1
+Frank,guide,ripped,1
+Frank,guide,volume,1
+Frank,handedly,brought,1
+Frank,handicapped,woman,1
+Frank,hell,did'ya,1
+Frank,hell,outta,1
+Frank,hennie,animated,1
+Frank,hideki,irabu,1
+Frank,home,alright,1
+Frank,home,reading,1
+Frank,hot,date,1
+Frank,hot,dish,1
+Frank,hour,flight,1
+Frank,house,stealing,1
+Frank,house,yells,1
+Frank,hundred,pounds,1
+Frank,im,calling,1
+Frank,inchon,korea,1
+Frank,jesus,statues,1
+Frank,jimmy,arms,1
+Frank,joe,george's,1
+Frank,korea,1950,1
+Frank,korean,woman,1
+Frank,leave,meets,1
+Frank,leaves,slamming,1
+Frank,leaving,tonight,1
+Frank,lemme,change,1
+Frank,lloyd,braun,1
+Frank,lloyd,rings,1
+Frank,lock,stock,1
+Frank,lot,friendlier,1
+Frank,loud,shouting,1
+Frank,lovely,dress,1
+Frank,lycra,spandex,1
+Frank,magic,trick,1
+Frank,mama,hoochie,1
+Frank,man's,love,1
+Frank,marble,rye,1
+Frank,marched,north,1
+Frank,mentioned,george's,1
+Frank,milky,white,1
+Frank,million,dollars,1
+Frank,minute,kruger,1
+Frank,missing,tv,1
+Frank,months,ago,1
+Frank,months,now,1
+Frank,morning,braun,1
+Frank,morty,seinfeld,1
+Frank,mother,changed,1
+Frank,mother,recommended,1
+Frank,moths,ate,1
+Frank,mouse,takes,1
+Frank,move,woman,1
+Frank,mutilating,squirrels,1
+Frank,natural,expression,1
+Frank,nice,guy,1
+Frank,nice,slaps,1
+Frank,nods,internal,1
+Frank,now,shut,1
+Frank,nudging,motion,1
+Frank,paella,disgusted,1
+Frank,pants,takes,1
+Frank,parking,meters,1
+Frank,pee,stained,1
+Frank,people,treated,1
+Frank,phil,casacof,1
+Frank,phoenix,rising,1
+Frank,pierre,cardin,1
+Frank,pole,kruger,1
+Frank,potential,foot,1
+Frank,pound,cake,1
+Frank,powdered,sugar,1
+Frank,pretty,gorgeous,1
+Frank,prime,texas,1
+Frank,prophylactic,wrapper,1
+Frank,provocative,movie,1
+Frank,pushes,play,1
+Frank,pushing,frank,1
+Frank,queens,claps,1
+Frank,raincoat,salesman,1
+Frank,rained,blows,1
+Frank,real,authenticity,1
+Frank,record,player,1
+Frank,record,shopping,1
+Frank,regulation,table,1
+Frank,relaxation,cassette,1
+Frank,resists,pushing,1
+Frank,reverend,yung,1
+Frank,ridiculous,struggles,1
+Frank,sale,bell,1
+Frank,sales,contest,1
+Frank,salmon,croquettes,1
+Frank,scolds,frank,1
+Frank,screen,tv,1
+Frank,seat,forward,1
+Frank,secret,weapon,1
+Frank,sell,em,1
+Frank,serenity,nowww,1
+Frank,serve,cake,1
+Frank,shirt,gimme,1
+Frank,shirt,where'd,1
+Frank,shoe,removal,1
+Frank,shot,doc,1
+Frank,shuffleboard,court,1
+Frank,silk,sheet,1
+Frank,silver,dollar,1
+Frank,single,handedly,1
+Frank,slaps,george's,1
+Frank,slinging,hash,1
+Frank,something's,missing,1
+Frank,son,moon,1
+Frank,son,tells,1
+Frank,spices,cooked,1
+Frank,ssssilver,dollar,1
+Frank,stained,couch,1
+Frank,starting,tonight,1
+Frank,starts,snapping,1
+Frank,stop,crying,1
+Frank,stop,short,1
+Frank,supply,lines,1
+Frank,susan's,doll,1
+Frank,sweat,suit,1
+Frank,swim,trunks,1
+Frank,tap,dance,1
+Frank,tap,dancing,1
+Frank,tape,tells,1
+Frank,tapes,franks,1
+Frank,tells,frank,1
+Frank,texas,steer,1
+Frank,thinking,kruger,1
+Frank,tie,move,1
+Frank,tinsel,distracting,1
+Frank,tolerate,infestation,1
+Frank,toll,booth,1
+Frank,total,loss,1
+Frank,tune,dance,1
+Frank,tv,doorbell,1
+Frank,twelve,million,1
+Frank,uncle,sam,1
+Frank,upscale,dinner,1
+Frank,vacation,clothes,1
+Frank,vacation,sits,1
+Frank,vista,florida,1
+Frank,volume,forty,1
+Frank,vote,yelling,1
+Frank,waiter,holds,1
+Frank,waiters,attention,1
+Frank,wander,aimlessly,1
+Frank,wanna,listen,1
+Frank,wanna,live,1
+Frank,wanna,piece,1
+Frank,watch,tv,1
+Frank,water,pik,1
+Frank,weeks,past,1
+Frank,weight,ratio,1
+Frank,white,hot,1
+Frank,wife,rage,1
+Frank,woman,leaves,1
+Frank,woman,walking,1
+Frank,wrong,walks,1
+Frank,yells,ah,1
+Frank,yung,son,1
 George,1,1,1
 George,1,14th,1
 George,1,hm,1
@@ -5612,6 +5994,7 @@ George,ah,hah,1
 George,ah,half,1
 George,ah,health's,1
 George,ah,listen,1
+George,ah,now,1
 George,ah,peggy,1
 George,ah,pez,1
 George,ah,pfft,1
@@ -5708,6 +6091,7 @@ George,answers,phone,1
 George,antique,stand,1
 George,anymore,books,1
 George,anymore,leslie,1
+George,anymore,now,1
 George,aparently,word's,1
 George,apartment,complex,1
 George,apartment,eldridge,1
@@ -5721,6 +6105,7 @@ George,apartments,itll,1
 George,apologize,step,1
 George,apparel,mention,1
 George,apparently,baldy,1
+George,appealing,now,1
 George,apple,skin,1
 George,applicant,stand,1
 George,apprehensively,um,1
@@ -5791,6 +6176,7 @@ George,ay,mach,1
 George,b12,shot,1
 George,ba,blurb,1
 George,baak,bak,1
+George,babies,now,1
 George,babs,left,1
 George,babu,bhatt,1
 George,baby,bluey,1
@@ -5882,6 +6268,7 @@ George,bathroom,naked,1
 George,bathroom,screaming,1
 George,bathroom,stalls,1
 George,bathrooms,preferably,1
+George,battery,now,1
 George,battery,power,1
 George,batting,stance,1
 George,bawled,uncontrollably,1
@@ -5900,6 +6287,7 @@ George,beautiful,day,1
 George,beautiful,hands,1
 George,beautiful,intelligent,1
 George,beautiful,lineswoman,1
+George,beautiful,now,1
 George,beautiful,successful,1
 George,beautiful,suit,1
 George,beautiful,woman,1
@@ -6032,6 +6420,7 @@ George,box,finally,1
 George,box,incident,1
 George,boy,boy,1
 George,boy,girl,1
+George,boy,now,1
 George,boy,um,1
 George,boy's,house,1
 George,boyfriend,reads,1
@@ -6044,6 +6433,7 @@ George,brando's,house,1
 George,braun,interfered,1
 George,braun,sales,1
 George,bread,beautiful,1
+George,bread,now,1
 George,break,god,1
 George,breakfast,naked,1
 George,breast,celeste,1
@@ -6123,6 +6513,7 @@ George,buyers,line,1
 George,buying,underwear,1
 George,buzz,cuts,1
 George,bye,dolores,1
+George,bye,now,1
 George,cab,door,1
 George,cab,driver,1
 George,cab,drives,1
@@ -6171,6 +6562,7 @@ George,camera,spins,1
 George,camp,hatchapee,1
 George,camp,people,1
 George,camp,waiter,1
+George,cancellation,now,1
 George,cancelled,plans,1
 George,cancelled,sit,1
 George,cancer,screening,1
@@ -6310,6 +6702,7 @@ George,city,property,1
 George,claim,responsibility,1
 George,claims,wouldnt,1
 George,claire,claire,1
+George,claire,now,1
 George,claire,youre,1
 George,clam,youre,1
 George,clanking,noise,1
@@ -6397,6 +6790,7 @@ George,commercial,jingle,1
 George,committed,adultery,1
 George,common,courtesy,1
 George,common,stay,1
+George,communist,now,1
 George,community,center,1
 George,community,service,1
 George,comparing,liam,1
@@ -6562,6 +6956,7 @@ George,day,fantastic,1
 George,day,friend,1
 George,day,friends,1
 George,day,mirthless,1
+George,day,now,1
 George,day,phone,1
 George,day,writing,1
 George,days,hmm,1
@@ -6629,6 +7024,7 @@ George,desk,steinbrenner,1
 George,desktop,computer,1
 George,desperate,steinbrenner,1
 George,destroy,twenty,1
+George,details,now,1
 George,devil's,food,1
 George,devious,balding,1
 George,dial,tone,1
@@ -6660,6 +7056,7 @@ George,dip,bites,1
 George,dip,dips,1
 George,director's,chairs,1
 George,dirty,messages,1
+George,disappeared,now,1
 George,discovering,plutonium,1
 George,discuss,figures,1
 George,discussed,toilet,1
@@ -6699,6 +7096,7 @@ George,dollars,"1,900",1
 George,dollars,alright,1
 George,dollars,left,1
 George,dollars,miss,1
+George,dollars,now,1
 George,dollars,smug,1
 George,dollars,worth,1
 George,don,mattingly,1
@@ -6725,6 +7123,7 @@ George,door,leaving,1
 George,door,letting,1
 George,door,louder,1
 George,door,mutters,1
+George,door,now,1
 George,door,steven,1
 George,door,throw,1
 George,doorman,sammy,1
@@ -6896,6 +7295,7 @@ George,entire,time,1
 George,entire,yankee,1
 George,envelope,woah,1
 George,envelopes,reads,1
+George,epidermis,now,1
 George,eric,chuckles,1
 George,eric,eric,1
 George,estelle,scissor,1
@@ -6924,12 +7324,14 @@ George,exciting,uninhibited,1
 George,executives,excuse,1
 George,exercise,jerry's,1
 George,exhale,gasp,1
+George,exhibit,now,1
 George,exits,cab,1
 George,exits,florist,1
 George,exits,monk's,1
 George,exits,slamming,1
 George,expensive,car,1
 George,expensive,flight,1
+George,experience,now,1
 George,experiments,grins,1
 George,explain,cut,1
 George,explosion,scene,1
@@ -7095,6 +7497,7 @@ George,fine,excellent,1
 George,fine,exits,1
 George,fine,hits,1
 George,fine,im,1
+George,fine,now,1
 George,fine,organization,1
 George,fine,person,1
 George,fine,sailor,1
@@ -7200,6 +7603,7 @@ George,friend,hugs,1
 George,friend,jeffrey's,1
 George,friend,lived,1
 George,friend,meeting,1
+George,friend,now,1
 George,friend,rachel,1
 George,friend,remember,1
 George,friend,sandy,1
@@ -7244,6 +7648,7 @@ George,funny,idea,1
 George,funny,jerry's,1
 George,funny,laser,1
 George,funny,laughs,1
+George,funny,now,1
 George,funny,observation,1
 George,funny,paula,1
 George,funny,programme,1
@@ -7540,6 +7945,7 @@ George,happen,exits,1
 George,happen,id,1
 George,happen,ive,1
 George,happen,leaves,1
+George,happen,now,1
 George,happen,screaming,1
 George,happily,chuckles,1
 George,happily,difficult,1
@@ -7633,6 +8039,7 @@ George,hide,hide,1
 George,hindenburg,story,1
 George,hip,musicians,1
 George,hips,swivelling,1
+George,hiring,now,1
 George,historic,remains,1
 George,historical,record,1
 George,history,civil,1
@@ -7716,6 +8123,7 @@ George,hour,time,1
 George,hours,notice,1
 George,hours,tomorrow,1
 George,house,keeper,1
+George,house,now,1
 George,house,quick,1
 George,house,saturday,1
 George,house,sit,1
@@ -7745,6 +8153,7 @@ George,human,strength,1
 George,human,suffering,1
 George,humanitarian,shes,1
 George,humor,dan,1
+George,humor,now,1
 George,hundred,degree,1
 George,hundred,im,1
 George,hundred,pounds,1
@@ -7973,6 +8382,7 @@ George,key,maura,1
 George,key,word,1
 George,keys,buried,1
 George,keys,gloves,1
+George,keys,now,1
 George,kick,ass,1
 George,kid,bozo,1
 George,kid,grabs,1
@@ -8019,6 +8429,7 @@ George,kramer's,book,1
 George,kramer's,eyes,1
 George,kramer's,japanese,1
 George,kramer's,keys,1
+George,kramer's,now,1
 George,kramer's,taped,1
 George,kramers,hands,1
 George,krishna,fist,1
@@ -8053,6 +8464,7 @@ George,laser,shtick,1
 George,late,aunt,1
 George,late,june,1
 George,late,meeting,1
+George,late,now,1
 George,latex,latex,1
 George,latex,manufacturing,1
 George,latex,related,1
@@ -8129,6 +8541,7 @@ George,liar,short,1
 George,library,dressed,1
 George,library,steps,1
 George,licking,toxic,1
+George,lie,now,1
 George,lies,holds,1
 George,life,boat,1
 George,life,expectancy,1
@@ -8158,6 +8571,7 @@ George,line,jerk,1
 George,line,squirts,1
 George,lines,beat,1
 George,lineswoman,alright,1
+George,lip,now,1
 George,lip,read,1
 George,lip,reading,1
 George,liquor,cabinet,1
@@ -8266,6 +8680,7 @@ George,machine,broke,1
 George,machine,called,1
 George,machine,im,1
 George,machine,notices,1
+George,machine,now,1
 George,machine,pick,1
 George,macho,head,1
 George,magazine,cover,1
@@ -8294,6 +8709,7 @@ George,marilyn,monroe,1
 George,marine,biologists,1
 George,mario,remember,1
 George,market,bear,1
+George,market,now,1
 George,market,research,1
 George,market's,terrible,1
 George,marla,realizing,1
@@ -8645,6 +9061,32 @@ George,noticed,people,1
 George,notices,gwen,1
 George,notices,people,1
 George,novaj,pravas,1
+George,now,bye,1
+George,now,coughs,1
+George,now,everyone's,1
+George,now,fellas,1
+George,now,florice,1
+George,now,gathers,1
+George,now,gimme,1
+George,now,gwen's,1
+George,now,hes,1
+George,now,im,1
+George,now,laughs,1
+George,now,left,1
+George,now,neighborhood's,1
+George,now,notices,1
+George,now,office,1
+George,now,peterman,1
+George,now,remember,1
+George,now,shes,1
+George,now,someone's,1
+George,now,stop,1
+George,now,stuff,1
+George,now,thinking,1
+George,now,tomorrow,1
+George,now,watch,1
+George,now,what'd,1
+George,now,ya,1
 George,nthe,toilet,1
 George,nudist,colony,1
 George,nure,iz,1
@@ -8703,6 +9145,7 @@ George,orgasm,orgasm,1
 George,orgasm,talk,1
 George,orgasms,immediately,1
 George,oskar,schindler's,1
+George,outfield,now,1
 George,outraged,leaving,1
 George,outs,facing,1
 George,outta,money,1
@@ -8867,6 +9310,7 @@ George,pesto,10,1
 George,peter,jennings,1
 George,peter,paul,1
 George,peterman,account,1
+George,peterman's,now,1
 George,petramco,corp,1
 George,pfff,disappeared,1
 George,pfffff,whistling,1
@@ -8900,6 +9344,7 @@ George,pie,country,1
 George,pigeons,broke,1
 George,pigeons,decided,1
 George,pigeons,life,1
+George,pilot,now,1
 George,pimple,tells,1
 George,pinewood,derby,1
 George,ping,hum,1
@@ -8911,6 +9356,7 @@ George,pinky,toe,1
 George,pinstripe,ball,1
 George,pitch,marisa,1
 George,plane,crashes,1
+George,plane,now,1
 George,plane,pick,1
 George,plane,ticket,1
 George,plankton,hmhm,1
@@ -9055,6 +9501,7 @@ George,prude,sweetheart,1
 George,prune,juice,1
 George,pst,moves,1
 George,psychiatrist,laughing,1
+George,psychiatrist,now,1
 George,psychic,instincts,1
 George,puberty,knuckle,1
 George,puberty,nose,1
@@ -9076,6 +9523,7 @@ George,purple,23,1
 George,purpose,mangager,1
 George,purposely,mispronounced,1
 George,purse,y'know,1
+George,quaker,now,1
 George,quayle,looked,1
 George,queens,seventy,1
 George,question,jimmy,1
@@ -9271,7 +9719,9 @@ George,rubbing,nervous,1
 George,rubbing,touching,1
 George,rubik's,cube,1
 George,rudimentary,scrapbook,1
+George,rules,now,1
 George,ruminant,chuckles,1
+George,run,now,1
 George,run,smiles,1
 George,running,water,1
 George,rush,drop,1
@@ -9377,6 +9827,7 @@ George,sest,hest,1
 George,severance,package,1
 George,sex,fugitive,1
 George,sex,moves,1
+George,sex,now,1
 George,sexual,camel,1
 George,sexual,fantasies,1
 George,sexual,payola,1
@@ -9500,6 +9951,7 @@ George,sitting,opposite,1
 George,sitting,round,1
 George,sitting,vivian,1
 George,situation,arose,1
+George,situation,now,1
 George,sixth,grade,1
 George,sixth,sense,1
 George,sixth,street,1
@@ -9609,6 +10061,7 @@ George,spare,set,1
 George,spastic,shnitzer,1
 George,speak,chinese,1
 George,speak,mumble,1
+George,speak,now,1
 George,speak,quietly,1
 George,speaker,phone,1
 George,speaker,ya,1
@@ -9745,6 +10198,7 @@ George,stop,kicking,1
 George,stop,modern,1
 George,stop,mom,1
 George,stop,moving,1
+George,stop,now,1
 George,stop,pushing,1
 George,stop,ridin,1
 George,stop,science,1
@@ -9786,6 +10240,7 @@ George,street,vender,1
 George,stress,dolls,1
 George,stress,people,1
 George,strong,hand,1
+George,strong,now,1
 George,struggle,continues,1
 George,stuck,pull,1
 George,stuff,engagement,1
@@ -10011,6 +10466,7 @@ George,til,monday,1
 George,tim,boy,1
 George,tim,listen,1
 George,tim,quick,1
+George,timberlands,now,1
 George,time,bomb,1
 George,time,calling,1
 George,time,chuckle,1
@@ -10022,6 +10478,7 @@ George,time,hands,1
 George,time,heh,1
 George,time,limit,1
 George,time,listens,1
+George,time,now,1
 George,time,people,1
 George,time,poets,1
 George,time,seinfeld,1
@@ -10033,6 +10490,7 @@ George,time,tomorrow,1
 George,time,tonight,1
 George,time,wa,1
 George,time,youd,1
+George,times,now,1
 George,times,youre,1
 George,tiny,bit,1
 George,tiny,doubt,1
@@ -10072,6 +10530,7 @@ George,tone,interrupts,1
 George,tone,laugh,1
 George,tone,puffy,1
 George,tonight,carrie,1
+George,tonight,now,1
 George,tonight,shes,1
 George,tonight,time,1
 George,tony,bennett,1
@@ -10192,6 +10651,7 @@ George,uncomfortable,um,1
 George,unconvincingly,coy,1
 George,undercoating,rust,1
 George,understand,lunch,1
+George,understand,now,1
 George,understand,paper,1
 George,understand,women,1
 George,understated,nod,1
@@ -10224,6 +10684,7 @@ George,uuh,sleepy,1
 George,uuu,uu,1
 George,uy,antonio,1
 George,uy,uy,1
+George,valentine,now,1
 George,van,buren,1
 George,van,kissing,1
 George,van,nostrand,1
@@ -10309,6 +10770,7 @@ George,wanna,walk,1
 George,wanna,win,1
 George,war,buff,1
 George,war,chest,1
+George,wardrobe,now,1
 George,warm,bath,1
 George,warm,tropical,1
 George,warming,gift,1
@@ -10357,6 +10819,7 @@ George,weekend,susan's,1
 George,weekend,swimming,1
 George,weekly,call,1
 George,weeks,left,1
+George,weeks,now,1
 George,weeks,remember,1
 George,weeks,standin,1
 George,weetie,weetie,1
@@ -10409,7 +10872,9 @@ George,wilhelm,told,1
 George,wilhelm,wha,1
 George,wilkinson,cleaned,1
 George,william,holden,1
+George,willie,now,1
 George,wilt,chamberlain's,1
+George,windbreaker,now,1
 George,window,glancing,1
 George,window,keith,1
 George,window,seat,1
@@ -10479,6 +10944,7 @@ George,world's,theory,1
 George,worlds,theory,1
 George,worried,alright,1
 George,worried,coffee,1
+George,worried,now,1
 George,worried,uhm,1
 George,worriedly,rubbing,1
 George,worry,exits,1
@@ -10500,6 +10966,7 @@ George,wow,god,1
 George,wow,heh,1
 George,wow,keith,1
 George,wow,nice,1
+George,wow,now,1
 George,wow,what'd,1
 George,wrench,pop,1
 George,write,symphonies,1
@@ -10515,6 +10982,7 @@ George,wrong,person,1
 George,wrote,pfft,1
 George,wyck,guy,1
 George,y'a,kn,1
+George,y'know,now,1
 George,y'know,people,1
 George,ya,ah,1
 George,ya,feelin,1
@@ -10522,6 +10990,7 @@ George,ya,grabs,1
 George,ya,hah,1
 George,ya,heh,1
 George,ya,manufacture,1
+George,ya,now,1
 George,ya,stop,1
 George,ya,visit,1
 George,ya,wanna,1
@@ -10559,6 +11028,7 @@ George,yoga,meditate,1
 George,yogurt,smoothie,1
 George,yoohoo,plenty,1
 George,york,city,1
+George,york,now,1
 George,york,winters,1
 George,youll,flip,1
 George,youre,born,1
@@ -10628,6 +11098,7 @@ Jerry,48th,street,1
 Jerry,5,3,1
 Jerry,5,cups,1
 Jerry,50,cents,1
+Jerry,50,now,1
 Jerry,51,50,1
 Jerry,555,3234,1
 Jerry,555,8383,1
@@ -10682,11 +11153,13 @@ Jerry,accountant's,office,1
 Jerry,ache,tonight,1
 Jerry,acid,tongue,1
 Jerry,acidly,shes,1
+Jerry,act,now,1
 Jerry,act,pauses,1
 Jerry,act,tonight,1
 Jerry,act,wha,1
 Jerry,acted,aloof,1
 Jerry,actin,tinactin,1
+Jerry,acting,now,1
 Jerry,acting,scenes,1
 Jerry,acting,strange,1
 Jerry,acting,stuff,1
@@ -10771,6 +11244,7 @@ Jerry,air,giving,1
 Jerry,air,mind,1
 Jerry,air,produce,1
 Jerry,air,quotes,1
+Jerry,aircraft,now,1
 Jerry,airline,food,1
 Jerry,airplane,lamp,1
 Jerry,airport,route,1
@@ -10864,6 +11338,7 @@ Jerry,antique,store,1
 Jerry,anymore,continues,1
 Jerry,anymore,pictures,1
 Jerry,anymore,shut,1
+Jerry,anytime,now,1
 Jerry,anytown,u.s.a,1
 Jerry,apartment,buzzer,1
 Jerry,apartment,confronting,1
@@ -10923,6 +11398,7 @@ Jerry,attention,span,1
 Jerry,attitude,id,1
 Jerry,attorney,bozo,1
 Jerry,attract,customers,1
+Jerry,attractive,now,1
 Jerry,attractive,woman,1
 Jerry,au,revoir,1
 Jerry,aub,ah,1
@@ -11004,6 +11480,7 @@ Jerry,bad,location,1
 Jerry,bad,meal,1
 Jerry,bad,movie,1
 Jerry,bad,neighbor,1
+Jerry,bad,now,1
 Jerry,bad,peach,1
 Jerry,bad,play,1
 Jerry,bad,rap,1
@@ -11054,6 +11531,7 @@ Jerry,bania,fan,1
 Jerry,bank,ive,1
 Jerry,bank,job,1
 Jerry,bank,lines,1
+Jerry,bank,now,1
 Jerry,bankruptcy,bankruptcy,1
 Jerry,bar,heiress,1
 Jerry,bar,mitzvas,1
@@ -11078,6 +11556,7 @@ Jerry,baseball,fantasy,1
 Jerry,basketball,bottle,1
 Jerry,bathroom,ill,1
 Jerry,bathroom,ready,1
+Jerry,bathtub,now,1
 Jerry,batman,green,1
 Jerry,batman,villain,1
 Jerry,battery,park,1
@@ -11108,6 +11587,7 @@ Jerry,becker,becker,1
 Jerry,becky,gelke,1
 Jerry,bed,advantage,1
 Jerry,bed,immediately,1
+Jerry,bed,now,1
 Jerry,bed,truck,1
 Jerry,bedding,accessories,1
 Jerry,bedroom,suite,1
@@ -11241,6 +11721,7 @@ Jerry,boring,tedious,1
 Jerry,bosco,bit,1
 Jerry,bosnia,herzegovina,1
 Jerry,bosom,gene,1
+Jerry,boss,now,1
 Jerry,bother,people,1
 Jerry,bottle,broke,1
 Jerry,bottle,ketchup,1
@@ -11260,6 +11741,7 @@ Jerry,bowtie,flea,1
 Jerry,box,holding,1
 Jerry,box,incident,1
 Jerry,box,labeled,1
+Jerry,box,now,1
 Jerry,box,pulls,1
 Jerry,boxcar,willie,1
 Jerry,boxing,gotta,1
@@ -11267,6 +11749,7 @@ Jerry,boy,excuse,1
 Jerry,boy,hmmm,1
 Jerry,boy,imagine,1
 Jerry,boy,lives,1
+Jerry,boy,now,1
 Jerry,boy,shes,1
 Jerry,boy,that'd,1
 Jerry,boy,tony,1
@@ -11361,10 +11844,13 @@ Jerry,bus,anymore,1
 Jerry,bus,yesterday,1
 Jerry,business,baby,1
 Jerry,business,card,1
+Jerry,business,now,1
 Jerry,business,section,1
 Jerry,business,sheepish,1
 Jerry,businesses,fail,1
 Jerry,bust,line,1
+Jerry,buster,now,1
+Jerry,busy,now,1
 Jerry,busy,pick,1
 Jerry,busy,stealing,1
 Jerry,butcher,boy,1
@@ -11411,6 +11897,7 @@ Jerry,cafeterias,subways,1
 Jerry,cage,death,1
 Jerry,cain,slew,1
 Jerry,cake,box,1
+Jerry,cake,now,1
 Jerry,call,911,1
 Jerry,call,bang,1
 Jerry,call,christie,1
@@ -11452,6 +11939,7 @@ Jerry,canned,fruit,1
 Jerry,cannibalism,cannibalism,1
 Jerry,cannon,leaving,1
 Jerry,cannon,operator,1
+Jerry,cantaloupe,now,1
 Jerry,cap,ten,1
 Jerry,cape,superman,1
 Jerry,cape,weather,1
@@ -11517,6 +12005,7 @@ Jerry,casually,sarcastic,1
 Jerry,casus,belli,1
 Jerry,cat,fight,1
 Jerry,cat,killer,1
+Jerry,cat,now,1
 Jerry,cat,stevens,1
 Jerry,catalog,writer's,1
 Jerry,catcher's,mitt,1
@@ -11529,6 +12018,7 @@ Jerry,celery,chopped,1
 Jerry,censoring,system,1
 Jerry,centre,lane,1
 Jerry,cereal,famine,1
+Jerry,cereal,now,1
 Jerry,cha,ching,1
 Jerry,cha,nodding,1
 Jerry,chain,reaction,1
@@ -11588,6 +12078,7 @@ Jerry,cheese,cheese,1
 Jerry,cheese,naaah,1
 Jerry,chemical,imbalance,1
 Jerry,chemo,treatment,1
+Jerry,cheque,now,1
 Jerry,cheques,yknow,1
 Jerry,cherry,start,1
 Jerry,cheryl,babu,1
@@ -11634,11 +12125,13 @@ Jerry,chubby,weathermen,1
 Jerry,chuckle,fulton,1
 Jerry,chuckles,master,1
 Jerry,chuckles,slightly,1
+Jerry,chummy,now,1
 Jerry,chunkies,newman,1
 Jerry,chunky,wrappers,1
 Jerry,cigar,rollers,1
 Jerry,cigar,store,1
 Jerry,cigarette,butt,1
+Jerry,cigars,now,1
 Jerry,cigars,topping,1
 Jerry,cindy,cindy,1
 Jerry,cinnamon,cinnamon,1
@@ -11763,6 +12256,7 @@ Jerry,compartment,takes,1
 Jerry,competitions,debutante,1
 Jerry,complain,department,1
 Jerry,complain,soup,1
+Jerry,complained,now,1
 Jerry,complaint,department,1
 Jerry,complete,failure,1
 Jerry,complete,power,1
@@ -11830,6 +12324,7 @@ Jerry,conveyor,belt,1
 Jerry,convicted,felon,1
 Jerry,convictions,leo,1
 Jerry,cook,jewish,1
+Jerry,cookin,now,1
 Jerry,cooking,burgers,1
 Jerry,cooking,newman,1
 Jerry,cooking,pork,1
@@ -11844,6 +12339,7 @@ Jerry,cop,garbage,1
 Jerry,cops,eating,1
 Jerry,cops,walking,1
 Jerry,cops'll,pick,1
+Jerry,copy,now,1
 Jerry,corduroy,true,1
 Jerry,core,temperature,1
 Jerry,cork,fell,1
@@ -11900,6 +12396,7 @@ Jerry,covers,eyes,1
 Jerry,covers,jean,1
 Jerry,cowboy,boots,1
 Jerry,cowboy,voice,1
+Jerry,coy,now,1
 Jerry,coyote,idea,1
 Jerry,crab,legs,1
 Jerry,crack,cracking's,1
@@ -11949,6 +12446,7 @@ Jerry,cujo,shut,1
 Jerry,cumberland,gap,1
 Jerry,cups,chopped,1
 Jerry,cured,meats,1
+Jerry,curiosity,now,1
 Jerry,curious,guy,1
 Jerry,curious,what'd,1
 Jerry,current,events,1
@@ -11958,6 +12456,7 @@ Jerry,curtain,honey,1
 Jerry,curtains,lights,1
 Jerry,cushions,im,1
 Jerry,cushy,timeslot,1
+Jerry,customer,now,1
 Jerry,cut,dress,1
 Jerry,cutting,board,1
 Jerry,cuz,salmon,1
@@ -11985,6 +12484,7 @@ Jerry,dancing,ah,1
 Jerry,dancing,sweet,1
 Jerry,dandruff,kasha,1
 Jerry,danielle,forget,1
+Jerry,danson,now,1
 Jerry,darth,vader,1
 Jerry,date,implied,1
 Jerry,date,situation,1
@@ -12028,6 +12528,7 @@ Jerry,deaf,date,1
 Jerry,deaf,lineswoman,1
 Jerry,deaf,women,1
 Jerry,deal,breaker,1
+Jerry,deal,now,1
 Jerry,dealer,puddy,1
 Jerry,dear,barry,1
 Jerry,death,bed,1
@@ -12037,6 +12538,7 @@ Jerry,death,takes,1
 Jerry,debutante,balls,1
 Jerry,decaf,cappuccino,1
 Jerry,decaf,leaves,1
+Jerry,decaf,now,1
 Jerry,deceitful,duplicitous,1
 Jerry,decent,hour,1
 Jerry,deceptive,minds,1
@@ -12051,6 +12553,7 @@ Jerry,deep,sleep,1
 Jerry,deep,yawning,1
 Jerry,deeply,disturbed,1
 Jerry,deeply,instantly,1
+Jerry,defensively,now,1
 Jerry,define,rarely,1
 Jerry,definite,possibility,1
 Jerry,deflating,woody,1
@@ -12135,6 +12638,7 @@ Jerry,disappointment,dammit,1
 Jerry,disaster,written,1
 Jerry,disbelief,milos,1
 Jerry,discarded,food,1
+Jerry,discount,now,1
 Jerry,discussed,george's,1
 Jerry,disgraceful,leaves,1
 Jerry,disguised,voice,1
@@ -12148,6 +12652,7 @@ Jerry,disinterested,hum,1
 Jerry,dismissal,eh,1
 Jerry,display,takes,1
 Jerry,distance,calls,1
+Jerry,distracted,now,1
 Jerry,district,attorney,1
 Jerry,disturbed,individual,1
 Jerry,divan,that'll,1
@@ -12237,6 +12742,7 @@ Jerry,doorman's,gonna,1
 Jerry,doors,close,1
 Jerry,double,overtime,1
 Jerry,doublemint,gum,1
+Jerry,douglas,now,1
 Jerry,downstairs,whats,1
 Jerry,dr,cyclops,1
 Jerry,dr,kazarian,1
@@ -12264,6 +12770,7 @@ Jerry,drinking,champagne,1
 Jerry,drinking,coffee,1
 Jerry,drinking,milk,1
 Jerry,drinks,appetizers,1
+Jerry,drinks,now,1
 Jerry,drinks,straight,1
 Jerry,drive,carefully,1
 Jerry,drive,home,1
@@ -12306,6 +12813,7 @@ Jerry,earth,outfit,1
 Jerry,east,hampton,1
 Jerry,easy,hangs,1
 Jerry,easy,leaves,1
+Jerry,easy,now,1
 Jerry,eat,24,1
 Jerry,eat,bacon,1
 Jerry,eat,broccoli,1
@@ -12318,6 +12826,7 @@ Jerry,eat,dinner,1
 Jerry,eat,healthy,1
 Jerry,eat,money,1
 Jerry,eat,naked,1
+Jerry,eat,now,1
 Jerry,eat,popcorn,1
 Jerry,eat,tonight,1
 Jerry,eaten,rotten,1
@@ -12466,6 +12975,8 @@ Jerry,everyone's,taking,1
 Jerry,everyones,doin,1
 Jerry,everything's,goin,1
 Jerry,everything's,nice,1
+Jerry,evidence,now,1
+Jerry,evily,now,1
 Jerry,exact,address,1
 Jerry,exact,perfume,1
 Jerry,exact,pronunciation,1
@@ -12514,6 +13025,7 @@ Jerry,extremely,dainty,1
 Jerry,extremely,happy,1
 Jerry,exxon,station,1
 Jerry,ey,ey,1
+Jerry,eye,now,1
 Jerry,eye,roll,1
 Jerry,eyebrows,mustache,1
 Jerry,eyebrows,women,1
@@ -12690,6 +13202,7 @@ Jerry,fine,mutton,1
 Jerry,fine,ten,1
 Jerry,finest,finishing,1
 Jerry,finger,itll,1
+Jerry,fingers,now,1
 Jerry,finish,eating,1
 Jerry,finish,line,1
 Jerry,finished,building,1
@@ -12733,6 +13246,7 @@ Jerry,floor,door,1
 Jerry,floor,dramatically,1
 Jerry,floor,seats,1
 Jerry,florence,nightingale,1
+Jerry,florida,now,1
 Jerry,florida,shes,1
 Jerry,florida,tomorrow,1
 Jerry,floss,glide,1
@@ -12852,6 +13366,7 @@ Jerry,front,youre,1
 Jerry,frozen,yogurt,1
 Jerry,fruit,fruit,1
 Jerry,fruit,loops,1
+Jerry,fruit,now,1
 Jerry,frustrated,child,1
 Jerry,frustrated,sigh,1
 Jerry,fuck,bleeped,1
@@ -13174,6 +13689,7 @@ Jerry,guy,milos,1
 Jerry,guy,moves,1
 Jerry,guy,nah,1
 Jerry,guy,nice,1
+Jerry,guy,now,1
 Jerry,guy,rolls,1
 Jerry,guy,spent,1
 Jerry,guy,theyre,1
@@ -13253,6 +13769,7 @@ Jerry,handsome,homeless,1
 Jerry,hangs,phone,1
 Jerry,hanoi,bombing,1
 Jerry,hansom,cab,1
+Jerry,happen,now,1
 Jerry,happen,phone,1
 Jerry,happen,telling,1
 Jerry,happen,tonight,1
@@ -13401,6 +13918,7 @@ Jerry,home,free,1
 Jerry,home,hotsy,1
 Jerry,home,laura,1
 Jerry,home,movies,1
+Jerry,home,now,1
 Jerry,home,opener,1
 Jerry,home,package,1
 Jerry,home,run,1
@@ -13433,6 +13951,7 @@ Jerry,horses,anymore,1
 Jerry,horses,theyre,1
 Jerry,hospital,bill,1
 Jerry,hospital,minor,1
+Jerry,hospital,now,1
 Jerry,hospital,receives,1
 Jerry,hospital,studying,1
 Jerry,host,excuse,1
@@ -13498,6 +14017,7 @@ Jerry,hundred,proof,1
 Jerry,hundred,seats,1
 Jerry,hundred,stores,1
 Jerry,hundred,thousand,1
+Jerry,hungry,now,1
 Jerry,hungry,people,1
 Jerry,hunky,tony,1
 Jerry,hunt,kessler,1
@@ -13515,6 +14035,7 @@ Jerry,ice,tray,1
 Jerry,idea,phone's,1
 Jerry,ideas,weve,1
 Jerry,idiot,farfel,1
+Jerry,idiot,now,1
 Jerry,idiot,shut,1
 Jerry,ill,choose,1
 Jerry,ill,create,1
@@ -13673,6 +14194,7 @@ Jerry,jack,ruby,1
 Jerry,jacket,ill,1
 Jerry,jacket,inside,1
 Jerry,jacket,mmm,1
+Jerry,jacket,now,1
 Jerry,jacket,slaughtered,1
 Jerry,jacket,stealer,1
 Jerry,jake,jarmal,1
@@ -13692,6 +14214,7 @@ Jerry,jayne,mansfield,1
 Jerry,jeffrey's,apartment,1
 Jerry,jelly,candy,1
 Jerry,jenna's,benefit,1
+Jerry,jeopardy,now,1
 Jerry,jerk,walks,1
 Jerry,jerry's,apartment,1
 Jerry,jerry's,bedroom,1
@@ -13740,6 +14263,7 @@ Jerry,johnny,yuma,1
 Jerry,johnson,administration,1
 Jerry,joining,pat,1
 Jerry,joke,maker,1
+Jerry,joke,now,1
 Jerry,joke,telling,1
 Jerry,jokes,phone,1
 Jerry,joking,listen,1
@@ -13816,6 +14340,7 @@ Jerry,kidding,people,1
 Jerry,kidding,sir,1
 Jerry,kidding,thinking,1
 Jerry,kidding,uncle,1
+Jerry,kids,now,1
 Jerry,kids,resolve,1
 Jerry,kids,waitress,1
 Jerry,kill,oneself,1
@@ -13917,13 +14442,16 @@ Jerry,land,imitates,1
 Jerry,landed,safely,1
 Jerry,lane,choice,1
 Jerry,lane,expert,1
+Jerry,lane,now,1
 Jerry,lanette,leaves,1
+Jerry,language,now,1
 Jerry,lapels,pockets,1
 Jerry,largest,mammal,1
 Jerry,larry's,appliance,1
 Jerry,laser,pointers,1
 Jerry,lasting,relationship,1
 Jerry,late,hes,1
+Jerry,late,now,1
 Jerry,late,pilot,1
 Jerry,late,taking,1
 Jerry,laugh,everything's,1
@@ -13938,6 +14466,7 @@ Jerry,laughing,leo,1
 Jerry,laughing,stone,1
 Jerry,laughs,heartily,1
 Jerry,laughs,hysterically,1
+Jerry,laughs,now,1
 Jerry,laughs,silently,1
 Jerry,laughs,taper,1
 Jerry,laughs,uproariously,1
@@ -14066,6 +14595,7 @@ Jerry,lip,kiss,1
 Jerry,lip,lower,1
 Jerry,lisi,lisi,1
 Jerry,list,hmm,1
+Jerry,list,now,1
 Jerry,listen,alright,1
 Jerry,listen,buddy,1
 Jerry,listen,call,1
@@ -14098,6 +14628,7 @@ Jerry,locking,door,1
 Jerry,lois,jimmy's,1
 Jerry,lois,stand,1
 Jerry,loman,told,1
+Jerry,london,now,1
 Jerry,lone,dancer,1
 Jerry,looked,familiar,1
 Jerry,looked,real,1
@@ -14110,6 +14641,7 @@ Jerry,lot,check,1
 Jerry,lot,easier,1
 Jerry,lot,faster,1
 Jerry,lot,hangs,1
+Jerry,lot,now,1
 Jerry,lot,tougher,1
 Jerry,lotta,chairs,1
 Jerry,lotta,gum,1
@@ -14176,6 +14708,7 @@ Jerry,maaa,hangs,1
 Jerry,macarthy,hearings,1
 Jerry,machine,jovially,1
 Jerry,machine,lung,1
+Jerry,machine,now,1
 Jerry,machine,plugged,1
 Jerry,machine,rachel,1
 Jerry,macy's,thankgiving,1
@@ -14248,6 +14781,7 @@ Jerry,margaret,doo,1
 Jerry,marie,benes,1
 Jerry,marine,biologist,1
 Jerry,marine,biology,1
+Jerry,marines,now,1
 Jerry,mario's,pizza,1
 Jerry,mark,mcewan,1
 Jerry,market,fluctuates,1
@@ -14258,6 +14792,7 @@ Jerry,marla,enters,1
 Jerry,maroon,sport,1
 Jerry,married,couple,1
 Jerry,married,guy,1
+Jerry,married,now,1
 Jerry,married,real,1
 Jerry,martin,enters,1
 Jerry,martin,martin,1
@@ -14276,6 +14811,7 @@ Jerry,master,packer,1
 Jerry,masticated,pecan,1
 Jerry,mat,coming,1
 Jerry,mattel,football,1
+Jerry,matter,now,1
 Jerry,matter,whats,1
 Jerry,matthew,luke,1
 Jerry,mature,adults,1
@@ -14304,11 +14840,13 @@ Jerry,mechanic,pulling,1
 Jerry,mechanic's,pants,1
 Jerry,med,school,1
 Jerry,med,students,1
+Jerry,media,now,1
 Jerry,medical,doctor,1
 Jerry,medical,journals,1
 Jerry,medical,procedure,1
 Jerry,medical,schools,1
 Jerry,medical,science,1
+Jerry,medication,now,1
 Jerry,medieval,dungeon,1
 Jerry,medium,perfect,1
 Jerry,meet,bridget,1
@@ -14338,12 +14876,15 @@ Jerry,mental,patient,1
 Jerry,mentally,visualizes,1
 Jerry,mention,unlisted,1
 Jerry,mentor,advises,1
+Jerry,menu,now,1
 Jerry,merry,chirstmas,1
+Jerry,mertz,now,1
 Jerry,meryl,laughs,1
 Jerry,meryl,meryl,1
 Jerry,meryl,seinfeld,1
 Jerry,mess,women,1
 Jerry,message,hope,1
+Jerry,message,now,1
 Jerry,message,presses,1
 Jerry,message,relay,1
 Jerry,message,sitting,1
@@ -14401,6 +14942,7 @@ Jerry,minute,im,1
 Jerry,minute,newman,1
 Jerry,minute,poppy's,1
 Jerry,minutes,late,1
+Jerry,minutes,now,1
 Jerry,minutes,pause,1
 Jerry,minutes,sleep,1
 Jerry,minutes,slow,1
@@ -14456,11 +14998,13 @@ Jerry,moments,im,1
 Jerry,monet,manet,1
 Jerry,monetary,system's,1
 Jerry,money,apparently,1
+Jerry,money,now,1
 Jerry,money,relax,1
 Jerry,money,whats,1
 Jerry,monger's,pretty,1
 Jerry,mongolian,barbecue,1
 Jerry,month,hes,1
+Jerry,months,now,1
 Jerry,mooching,inventory,1
 Jerry,moral,issue,1
 Jerry,morally,reprehensible,1
@@ -14496,6 +15040,8 @@ Jerry,mouths,dirty,1
 Jerry,move,anymore,1
 Jerry,move,georgie,1
 Jerry,move,immediately,1
+Jerry,move,now,1
+Jerry,moves,now,1
 Jerry,movie,checkmate,1
 Jerry,movie,cinderfella,1
 Jerry,movie,goers,1
@@ -14521,6 +15067,7 @@ Jerry,murder,investigation,1
 Jerry,murderer,guy,1
 Jerry,murderers,chasing,1
 Jerry,murphy,anymore,1
+Jerry,mushroomed,now,1
 Jerry,mushrooms,half,1
 Jerry,music,playing,1
 Jerry,music,sounds,1
@@ -14532,6 +15079,7 @@ Jerry,mutant,pig,1
 Jerry,muted,heart,1
 Jerry,mutton,hope,1
 Jerry,mvp,1979,1
+Jerry,myanmar,now,1
 Jerry,myra,stan,1
 Jerry,mysteries,wrapped,1
 Jerry,mysterious,connie,1
@@ -14600,6 +15148,7 @@ Jerry,nervous,driving,1
 Jerry,nervous,laughter,1
 Jerry,nervous,tic,1
 Jerry,nervous,wreck,1
+Jerry,nest,now,1
 Jerry,nestl's,quik,1
 Jerry,net,immediately,1
 Jerry,network,anymore,1
@@ -14660,6 +15209,7 @@ Jerry,night,happened,1
 Jerry,night,holds,1
 Jerry,night,newman,1
 Jerry,night,nothin,1
+Jerry,night,now,1
 Jerry,night,ollie,1
 Jerry,night,optional,1
 Jerry,night,playing,1
@@ -14704,6 +15254,7 @@ Jerry,norwegian,ice,1
 Jerry,nose,pick,1
 Jerry,note,tha'ts,1
 Jerry,notebook,alright,1
+Jerry,nothin,now,1
 Jerry,nothing's,changed,1
 Jerry,nothing's,happened,1
 Jerry,nothing's,throwing,1
@@ -14716,6 +15267,29 @@ Jerry,noticing,george's,1
 Jerry,noticing,newman,1
 Jerry,noting,elaine's,1
 Jerry,novelty,act,1
+Jerry,now,approaches,1
+Jerry,now,bear,1
+Jerry,now,boy,1
+Jerry,now,buzzer,1
+Jerry,now,covers,1
+Jerry,now,cursing,1
+Jerry,now,dr,1
+Jerry,now,drop,1
+Jerry,now,functioning,1
+Jerry,now,gee,1
+Jerry,now,granted,1
+Jerry,now,hes,1
+Jerry,now,interviewing,1
+Jerry,now,ladies,1
+Jerry,now,light,1
+Jerry,now,look's,1
+Jerry,now,now,1
+Jerry,now,shut,1
+Jerry,now,someone's,1
+Jerry,now,stay,1
+Jerry,now,wearing,1
+Jerry,now,whats,1
+Jerry,now,women,1
 Jerry,nude,backgammon,1
 Jerry,nude,bar,1
 Jerry,nudist,colonies,1
@@ -14743,6 +15317,7 @@ Jerry,offering,cute,1
 Jerry,offers,gail,1
 Jerry,office,classic,1
 Jerry,office,hours,1
+Jerry,office,now,1
 Jerry,office,pay,1
 Jerry,offices,people,1
 Jerry,official,flip,1
@@ -14880,6 +15455,7 @@ Jerry,passionate,scoots,1
 Jerry,past,completely,1
 Jerry,past,couple,1
 Jerry,past,fourteen,1
+Jerry,past,now,1
 Jerry,past,president,1
 Jerry,pastry,surely,1
 Jerry,pat,calls,1
@@ -14915,6 +15491,7 @@ Jerry,peckin,machine,1
 Jerry,pee,pipe,1
 Jerry,peep,hole,1
 Jerry,peep,outta,1
+Jerry,peeved,now,1
 Jerry,pen,pals,1
 Jerry,penalty,stroke,1
 Jerry,pencil,ah,1
@@ -14935,6 +15512,7 @@ Jerry,people,laugh,1
 Jerry,people,live,1
 Jerry,people,makes,1
 Jerry,people,matador,1
+Jerry,people,now,1
 Jerry,people,people,1
 Jerry,people,running,1
 Jerry,people,screaming,1
@@ -15032,6 +15610,7 @@ Jerry,phony,baloney,1
 Jerry,phony,bogus,1
 Jerry,phony,hair,1
 Jerry,phony,mat,1
+Jerry,phony,now,1
 Jerry,phony,personality,1
 Jerry,photo,mary,1
 Jerry,photo,section,1
@@ -15048,9 +15627,11 @@ Jerry,pickle,jar,1
 Jerry,picture,carefully,1
 Jerry,picture,plastered,1
 Jerry,pie,joke,1
+Jerry,piece,now,1
 Jerry,piece,silver,1
 Jerry,pieces,weak,1
 Jerry,pill,bottle,1
+Jerry,pillow,now,1
 Jerry,pilot,deals,1
 Jerry,pilot,light,1
 Jerry,pilot,seinfeld,1
@@ -15069,6 +15650,7 @@ Jerry,pity,compassion,1
 Jerry,pizza,pie,1
 Jerry,pkew,pkeeew,1
 Jerry,plane,call,1
+Jerry,plane,now,1
 Jerry,plane,schnapps,1
 Jerry,plane's,ready,1
 Jerry,planet,9,1
@@ -15111,6 +15693,7 @@ Jerry,pleading,leo,1
 Jerry,pleading,telling,1
 Jerry,pleasant,conversation,1
 Jerry,pleasure,taking,1
+Jerry,pledge,now,1
 Jerry,plotting,revenge,1
 Jerry,pocket,alright,1
 Jerry,pocket,books,1
@@ -15502,6 +16085,7 @@ Jerry,respect,salad,1
 Jerry,respirator,intravenous,1
 Jerry,restaurant,check,1
 Jerry,restaurant,im,1
+Jerry,restaurant,now,1
 Jerry,restaurant,pfeiffer's,1
 Jerry,restaurant,youre,1
 Jerry,restaurants,takes,1
@@ -15580,6 +16164,7 @@ Jerry,rubber,band,1
 Jerry,rudely,grabs,1
 Jerry,rueful,acceptance,1
 Jerry,ruin,leather,1
+Jerry,ruined,now,1
 Jerry,rules,remember,1
 Jerry,run,antelope,1
 Jerry,run,inside,1
@@ -15630,6 +16215,7 @@ Jerry,sandwich,bite,1
 Jerry,santa,claus,1
 Jerry,sara's,office,1
 Jerry,sarajevo,bosnia,1
+Jerry,sarcastic,now,1
 Jerry,sarcastic,remarks,1
 Jerry,sarcastically,joking,1
 Jerry,sarcastically,ya,1
@@ -15672,6 +16258,7 @@ Jerry,scottish,whats,1
 Jerry,screaming,fine,1
 Jerry,screen,nodding,1
 Jerry,screen,remote,1
+Jerry,screener,now,1
 Jerry,screening,process,1
 Jerry,screw,pasta,1
 Jerry,scrimmage,didnt,1
@@ -15704,6 +16291,7 @@ Jerry,senator,id,1
 Jerry,send,nikki,1
 Jerry,senior,citizen's,1
 Jerry,sense,hes,1
+Jerry,sense,now,1
 Jerry,sensual,delights,1
 Jerry,sentence,finisher,1
 Jerry,sentence,smiling,1
@@ -15715,6 +16303,7 @@ Jerry,separate,residences,1
 Jerry,september,21st,1
 Jerry,sergio,mendes,1
 Jerry,serial,killers,1
+Jerry,series,now,1
 Jerry,serve,soup,1
 Jerry,service,trays,1
 Jerry,serving,brewed,1
@@ -15757,6 +16346,7 @@ Jerry,sharon,besser,1
 Jerry,sharp,interlocking,1
 Jerry,sharp,key,1
 Jerry,sharp,knife,1
+Jerry,sheep,now,1
 Jerry,sheepish,godfather,1
 Jerry,shell,call,1
 Jerry,shelly's,upset,1
@@ -15819,6 +16409,7 @@ Jerry,sick,yesterday,1
 Jerry,sickening,display,1
 Jerry,sid,field's,1
 Jerry,sideburns,grow,1
+Jerry,sidekick,now,1
 Jerry,sidney,fields,1
 Jerry,sidra's,coming,1
 Jerry,sighing,deeply,1
@@ -15906,6 +16497,7 @@ Jerry,smiling,alright,1
 Jerry,smither's,clinic,1
 Jerry,smoke,um,1
 Jerry,smoker's,lounge,1
+Jerry,smooth,now,1
 Jerry,smooth,trails,1
 Jerry,snack,bar,1
 Jerry,snack,wholesome,1
@@ -16063,8 +16655,10 @@ Jerry,started,chasin,1
 Jerry,started,drinking,1
 Jerry,started,sniffing,1
 Jerry,started,talking,1
+Jerry,startin,now,1
 Jerry,starting,joking,1
 Jerry,starting,line,1
+Jerry,starting,now,1
 Jerry,startled,eyes,1
 Jerry,starts,advancing,1
 Jerry,starts,cleaning,1
@@ -16248,6 +16842,7 @@ Jerry,superman,saves,1
 Jerry,superman,superman's,1
 Jerry,superman,wore,1
 Jerry,superman's,exact,1
+Jerry,supermarket,now,1
 Jerry,supervisor,im,1
 Jerry,support,feeding,1
 Jerry,support,system,1
@@ -16322,6 +16917,7 @@ Jerry,taking,time,1
 Jerry,taking,twenty,1
 Jerry,talent,posing,1
 Jerry,talk,call,1
+Jerry,talk,now,1
 Jerry,talk,picks,1
 Jerry,talk,privately,1
 Jerry,talk,slower,1
@@ -16505,6 +17101,7 @@ Jerry,time,im,1
 Jerry,time,ive,1
 Jerry,time,marla,1
 Jerry,time,morty,1
+Jerry,time,now,1
 Jerry,time,remember,1
 Jerry,time,russell,1
 Jerry,time,send,1
@@ -16597,6 +17194,7 @@ Jerry,track,meet,1
 Jerry,trade,hair,1
 Jerry,trade,sleep,1
 Jerry,traditional,route,1
+Jerry,traffic,now,1
 Jerry,trafficked,overly,1
 Jerry,tragic,figure,1
 Jerry,train,yawns,1
@@ -16756,6 +17354,7 @@ Jerry,uuhhh,bread,1
 Jerry,vacuum,im,1
 Jerry,vague,recollection,1
 Jerry,vaguely,familiar,1
+Jerry,valerie,now,1
 Jerry,valerie,patched,1
 Jerry,valet,guy,1
 Jerry,valuable,antiques,1
@@ -16803,6 +17402,7 @@ Jerry,voice,shes,1
 Jerry,voice,sounded,1
 Jerry,voice,trailing,1
 Jerry,voice,wel,1
+Jerry,voices,now,1
 Jerry,voight,day,1
 Jerry,voight,spell,1
 Jerry,voight's,car,1
@@ -16927,9 +17527,11 @@ Jerry,wedding,bands,1
 Jerry,wedding,gown,1
 Jerry,wedding,party,1
 Jerry,weddings,alright,1
+Jerry,wedgie,now,1
 Jerry,wednesday,morning,1
 Jerry,wednesday,wednesdays,1
 Jerry,wednesday's,walk,1
+Jerry,week,now,1
 Jerry,weekend,alright,1
 Jerry,weeks,ago,1
 Jerry,weeks,late,1
@@ -16965,6 +17567,7 @@ Jerry,whatta,ya,1
 Jerry,wheeling,attitude,1
 Jerry,whichever,animal,1
 Jerry,whiney,tone,1
+Jerry,whispering,now,1
 Jerry,whispers,damn,1
 Jerry,whispers,haymen,1
 Jerry,whistling,hands,1
@@ -17165,6 +17768,7 @@ Jerry,yea,alright,1
 Jerry,yea,nobody's,1
 Jerry,yea,pulls,1
 Jerry,yea,yea,1
+Jerry,yellow,now,1
 Jerry,yellow,sun,1
 Jerry,yep,alec,1
 Jerry,yep,checks,1
@@ -17243,6 +17847,7 @@ Kramer,20th,century,1
 Kramer,21,miles,1
 Kramer,27,minute,1
 Kramer,3,4,1
+Kramer,300,now,1
 Kramer,325,degrees,1
 Kramer,3718,1837,1
 Kramer,40,50,1
@@ -17312,6 +17917,7 @@ Kramer,afternoon,pop,1
 Kramer,age,music,1
 Kramer,age,weight,1
 Kramer,aging,process,1
+Kramer,ago,now,1
 Kramer,ah,ahhhhh,1
 Kramer,ah,baby,1
 Kramer,ah,bette,1
@@ -17323,6 +17929,7 @@ Kramer,ah,gotta,1
 Kramer,ah,hilde,1
 Kramer,ah,hold,1
 Kramer,ah,jerry's,1
+Kramer,ah,now,1
 Kramer,ah,peanut,1
 Kramer,ah,people,1
 Kramer,ah,smacks,1
@@ -17335,6 +17942,7 @@ Kramer,ah,ye,1
 Kramer,ahead,mickey,1
 Kramer,ahead,riiight,1
 Kramer,ahead,smell,1
+Kramer,ahh,now,1
 Kramer,ahhh,shocked,1
 Kramer,aiee,mucho,1
 Kramer,air,brushed,1
@@ -17345,6 +17953,7 @@ Kramer,air,makes,1
 Kramer,al,righty,1
 Kramer,alarm,clocks,1
 Kramer,albums,journey,1
+Kramer,alive,now,1
 Kramer,allemande,left,1
 Kramer,allen,movie,1
 Kramer,allergic,reaction,1
@@ -17411,6 +18020,7 @@ Kramer,apparently,nyu,1
 Kramer,appetit,magazine,1
 Kramer,apple,newman,1
 Kramer,appliance,store,1
+Kramer,applied,now,1
 Kramer,appreciated,garbage,1
 Kramer,approaches,table,1
 Kramer,approximately,30,1
@@ -17463,6 +18073,7 @@ Kramer,baby,closes,1
 Kramer,baby,home,1
 Kramer,baby,koochie,1
 Kramer,baby,loves,1
+Kramer,baby,now,1
 Kramer,baby,pig,1
 Kramer,baby,sitter,1
 Kramer,baby,slide,1
@@ -17482,12 +18093,14 @@ Kramer,bad,chicken,1
 Kramer,bad,italian,1
 Kramer,bad,mojo,1
 Kramer,bad,mood,1
+Kramer,bad,now,1
 Kramer,bad,plum,1
 Kramer,bad,publicity,1
 Kramer,bag,hard,1
 Kramer,bagel,machine,1
 Kramer,bagel,takes,1
 Kramer,bagels,continues,1
+Kramer,bagels,now,1
 Kramer,baggy,swimsuit,1
 Kramer,ball,boys,1
 Kramer,ball,inside,1
@@ -17520,6 +18133,7 @@ Kramer,bathroom,changing,1
 Kramer,bathroom,demonstrates,1
 Kramer,bathroom,door,1
 Kramer,bathroom,frank,1
+Kramer,bathroom,now,1
 Kramer,bathroom,scene,1
 Kramer,baton,chalks,1
 Kramer,beach,cologne,1
@@ -17644,6 +18258,7 @@ Kramer,brewsky,charlie,1
 Kramer,bride,radiant,1
 Kramer,bridge,traffic,1
 Kramer,briefcase,forget,1
+Kramer,briefly,now,1
 Kramer,brilliant,parody,1
 Kramer,bring,em,1
 Kramer,bring,home,1
@@ -17661,6 +18276,7 @@ Kramer,broke,water,1
 Kramer,broken,lamp,1
 Kramer,broken,pieces,1
 Kramer,broom,cleaning,1
+Kramer,brothers,now,1
 Kramer,brouhaha,breaks,1
 Kramer,brown,beat,1
 Kramer,brown,eyed,1
@@ -17709,6 +18325,7 @@ Kramer,bush,league,1
 Kramer,business,aa,1
 Kramer,business,card,1
 Kramer,business,hotels,1
+Kramer,business,now,1
 Kramer,business,people,1
 Kramer,business,transaction,1
 Kramer,butcher,cut,1
@@ -17751,6 +18368,7 @@ Kramer,call,doctor,1
 Kramer,call,finally,1
 Kramer,call,gino,1
 Kramer,call,jack,1
+Kramer,call,now,1
 Kramer,call,pick,1
 Kramer,call,stan,1
 Kramer,call,ya,1
@@ -17779,6 +18397,7 @@ Kramer,car,running,1
 Kramer,car,set,1
 Kramer,car's,parked,1
 Kramer,card,pulls,1
+Kramer,cards,now,1
 Kramer,care,cantaloupe,1
 Kramer,care,im,1
 Kramer,career,day,1
@@ -17794,6 +18413,7 @@ Kramer,castro,eh,1
 Kramer,castro,would've,1
 Kramer,cat,burglar,1
 Kramer,cat,eventually,1
+Kramer,cat,now,1
 Kramer,cat,ran,1
 Kramer,catalogs,omaha,1
 Kramer,catered,lunch,1
@@ -17827,11 +18447,13 @@ Kramer,chicago,jerry's,1
 Kramer,chicken,bad,1
 Kramer,chicken,feed,1
 Kramer,chicken,mess,1
+Kramer,chicken,now,1
 Kramer,chicken,roaster,1
 Kramer,chicken,wire,1
 Kramer,childish,amusement,1
 Kramer,children,mickey,1
 Kramer,chin,music,1
+Kramer,china,now,1
 Kramer,china,panda,1
 Kramer,chinese,balm,1
 Kramer,chinese,delivery,1
@@ -17897,6 +18519,7 @@ Kramer,coat,hooks,1
 Kramer,coca,cola,1
 Kramer,cockeyed,optimist,1
 Kramer,cocoa,bean,1
+Kramer,code,now,1
 Kramer,coffee,company,1
 Kramer,coffee,drinker,1
 Kramer,cold,cuts,1
@@ -17998,14 +18621,17 @@ Kramer,country,boy,1
 Kramer,countryside,exits,1
 Kramer,couple,shots,1
 Kramer,couple,times,1
+Kramer,courses,now,1
 Kramer,courtship,unfettered,1
 Kramer,courtside,whoa,1
 Kramer,cover,charge,1
 Kramer,covered,rock,1
 Kramer,cowboy,boots,1
+Kramer,cowboy,now,1
 Kramer,cracks,invisible,1
 Kramer,crank,call,1
 Kramer,crazy,fantasy,1
+Kramer,crazy,now,1
 Kramer,crazy,religious,1
 Kramer,crazy,shirts,1
 Kramer,crazy,wrong,1
@@ -18028,6 +18654,7 @@ Kramer,cubans,real,1
 Kramer,cubans,runs,1
 Kramer,cubans,what'd,1
 Kramer,cucumbers,grabs,1
+Kramer,culture,now,1
 Kramer,cup,o'tea,1
 Kramer,cupids,rifle,1
 Kramer,cupping,jerry's,1
@@ -18056,6 +18683,7 @@ Kramer,date,tonight,1
 Kramer,day,eh,1
 Kramer,day,id,1
 Kramer,day,junior,1
+Kramer,day,now,1
 Kramer,day,olds,1
 Kramer,day,rewind,1
 Kramer,day,youll,1
@@ -18127,6 +18755,7 @@ Kramer,difficulty,coping,1
 Kramer,dig,asian,1
 Kramer,diggity,dog,1
 Kramer,digit,zip,1
+Kramer,dime,now,1
 Kramer,dinky,doughnuts,1
 Kramer,dinner,mmm,1
 Kramer,dinner,party,1
@@ -18147,6 +18776,7 @@ Kramer,dismissive,ahh,1
 Kramer,disposal,dismantle,1
 Kramer,distance,relationships,1
 Kramer,distraught,wooh,1
+Kramer,disturbed,now,1
 Kramer,disturbing,image,1
 Kramer,dit,dit,1
 Kramer,diving,class,1
@@ -18220,6 +18850,7 @@ Kramer,drink,starts,1
 Kramer,drinking,caf,1
 Kramer,drinks,orange,1
 Kramer,drips,water,1
+Kramer,drive,now,1
 Kramer,driving,claps,1
 Kramer,driving,jon,1
 Kramer,driving,range,1
@@ -18344,6 +18975,7 @@ Kramer,evil,pass,1
 Kramer,evilly,driving,1
 Kramer,examines,george's,1
 Kramer,excellent,question,1
+Kramer,excited,now,1
 Kramer,exciting,sounding,1
 Kramer,executive,training,1
 Kramer,existent,television,1
@@ -18354,6 +18986,7 @@ Kramer,expiration,date,1
 Kramer,expletives,fly,1
 Kramer,exploding,sound,1
 Kramer,express,mail,1
+Kramer,extension,now,1
 Kramer,extra,baggage,1
 Kramer,extra,charge,1
 Kramer,extra,days,1
@@ -18510,6 +19143,7 @@ Kramer,foot,taller,1
 Kramer,forcefully,eject,1
 Kramer,forgot,em,1
 Kramer,forgot,hands,1
+Kramer,form,now,1
 Kramer,formal,atmosphere,1
 Kramer,format,edgy,1
 Kramer,format,scandals,1
@@ -18527,6 +19161,7 @@ Kramer,framed,picture,1
 Kramer,frank,costanza,1
 Kramer,frank,holding,1
 Kramer,frank,invented,1
+Kramer,frank,now,1
 Kramer,frank,relax,1
 Kramer,frank's,house,1
 Kramer,frank's,screen,1
@@ -18585,6 +19220,7 @@ Kramer,fun,guy,1
 Kramer,fun,project,1
 Kramer,function,body,1
 Kramer,fundraiser,tonight,1
+Kramer,funeral,now,1
 Kramer,funky,adventure,1
 Kramer,funky,mountain,1
 Kramer,funniest,stories,1
@@ -18663,6 +19299,7 @@ Kramer,god,blessing,1
 Kramer,god,forbid,1
 Kramer,god,love,1
 Kramer,goin,crazy,1
+Kramer,goin,now,1
 Kramer,gold,watch,1
 Kramer,golden,era,1
 Kramer,golden,gloves,1
@@ -18717,6 +19354,7 @@ Kramer,gonna,visit,1
 Kramer,gonna,watch,1
 Kramer,gonna,widen,1
 Kramer,gonorrhea,excuse,1
+Kramer,goodbye,now,1
 Kramer,goood,moorrrnninng,1
 Kramer,gorgeous,woman,1
 Kramer,gorilla,society,1
@@ -18799,6 +19437,7 @@ Kramer,guys,coming,1
 Kramer,guys,doin,1
 Kramer,guys,gonna,1
 Kramer,guys,leaves,1
+Kramer,guys,now,1
 Kramer,guys,wanna,1
 Kramer,h'am,loaded,1
 Kramer,h'amon,board,1
@@ -18817,6 +19456,7 @@ Kramer,half,retches,1
 Kramer,hallway,door,1
 Kramer,hallway,smells,1
 Kramer,hammer,time,1
+Kramer,hanaran,now,1
 Kramer,hand,buzzer,1
 Kramer,hand,casts,1
 Kramer,hand,gesture,1
@@ -18950,6 +19590,7 @@ Kramer,horrible,sound,1
 Kramer,horse,named,1
 Kramer,hose,babies,1
 Kramer,hose,coming,1
+Kramer,hospital,now,1
 Kramer,hospital,sits,1
 Kramer,hot,97,1
 Kramer,hot,chocolate,1
@@ -18966,6 +19607,7 @@ Kramer,hour,late,1
 Kramer,hour,martinizing,1
 Kramer,hour,whoo,1
 Kramer,hours,left,1
+Kramer,hours,now,1
 Kramer,hours,whadda,1
 Kramer,house,everyone's,1
 Kramer,house,goon,1
@@ -18990,6 +19632,7 @@ Kramer,hydrating,triple,1
 Kramer,hysterically,fight,1
 Kramer,ice,buddy,1
 Kramer,idea,fetches,1
+Kramer,idea,now,1
 Kramer,idea,occurs,1
 Kramer,idea,sounding,1
 Kramer,idi,amin,1
@@ -19019,6 +19662,7 @@ Kramer,impact,sound,1
 Kramer,impatient,sigh,1
 Kramer,impersonate,jerry's,1
 Kramer,implying,laughs,1
+Kramer,impressed,now,1
 Kramer,impressed,ohh,1
 Kramer,inch,taller,1
 Kramer,incredibly,nervous,1
@@ -19030,6 +19674,7 @@ Kramer,industrial,smoothing,1
 Kramer,industrial,strength,1
 Kramer,industries,lives,1
 Kramer,innocent,boy,1
+Kramer,insane,now,1
 Kramer,insecure,people,1
 Kramer,inserts,tape,1
 Kramer,inside,bone,1
@@ -19058,6 +19703,7 @@ Kramer,involved,leaving,1
 Kramer,irish,accent,1
 Kramer,irt,2,1
 Kramer,island,expressway,1
+Kramer,isolation,now,1
 Kramer,isosceles,isosceles,1
 Kramer,itll,handle,1
 Kramer,ive,gotta,1
@@ -19071,12 +19717,14 @@ Kramer,jacket,pocket,1
 Kramer,jackie,stan's,1
 Kramer,jagged,shard,1
 Kramer,jane,exits,1
+Kramer,japan,now,1
 Kramer,japanese,friends,1
 Kramer,jay,reimenschneider,1
 Kramer,jean,paul,1
 Kramer,jeannie,left,1
 Kramer,jeans,anymore,1
 Kramer,jelly,clicks,1
+Kramer,jellyfish,now,1
 Kramer,jerry's,act,1
 Kramer,jerry's,argument,1
 Kramer,jerry's,balcony,1
@@ -19238,6 +19886,7 @@ Kramer,leaked,inside,1
 Kramer,lean,forward,1
 Kramer,leap,training,1
 Kramer,leapin,larry,1
+Kramer,leave,now,1
 Kramer,leaves,frustrated,1
 Kramer,leaves,monks,1
 Kramer,leaves,paranoid,1
@@ -19305,6 +19954,7 @@ Kramer,listen,listen,1
 Kramer,listen,porter,1
 Kramer,listens,alright,1
 Kramer,listens,eh,1
+Kramer,live,now,1
 Kramer,liza,doolittle,1
 Kramer,lloyd's,hand,1
 Kramer,lloyd's,shoulder,1
@@ -19327,18 +19977,21 @@ Kramer,lost,downtown,1
 Kramer,lost,love,1
 Kramer,lost,umas,1
 Kramer,lot,friendlier,1
+Kramer,lot,now,1
 Kramer,lot,worse,1
 Kramer,lotion,ya,1
 Kramer,lotta,yearning,1
 Kramer,loud,candidate,1
 Kramer,loud,kills,1
 Kramer,loud,sigh,1
+Kramer,loudly,now,1
 Kramer,louis,jorge,1
 Kramer,loungingly,talking,1
 Kramer,love,carrots,1
 Kramer,love,curls,1
 Kramer,love,deception,1
 Kramer,love,em,1
+Kramer,love,now,1
 Kramer,love,pea,1
 Kramer,love,ties,1
 Kramer,lovely,tonight,1
@@ -19388,6 +20041,7 @@ Kramer,makes,sex,1
 Kramer,maketh,ill,1
 Kramer,makin,em,1
 Kramer,male,mammal,1
+Kramer,malice,now,1
 Kramer,mama,walks,1
 Kramer,mammal,approximately,1
 Kramer,man's,records,1
@@ -19442,6 +20096,7 @@ Kramer,medicine,alright,1
 Kramer,medicine,cabinets,1
 Kramer,mediterranean,women,1
 Kramer,meet,chicks,1
+Kramer,meet,now,1
 Kramer,meeting,coming,1
 Kramer,meets,west,1
 Kramer,mel,torm,1
@@ -19494,6 +20149,7 @@ Kramer,minor,stir,1
 Kramer,mint,condition,1
 Kramer,minute,ago,1
 Kramer,minute,elliot,1
+Kramer,minute,now,1
 Kramer,minute,shower,1
 Kramer,minutes,alright,1
 Kramer,mischievous,rambunctious,1
@@ -19567,6 +20223,7 @@ Kramer,motions,practically,1
 Kramer,motivated,hard,1
 Kramer,motor,vehicle,1
 Kramer,mounds,bar,1
+Kramer,mountain,now,1
 Kramer,mouth,goin,1
 Kramer,mouth,hatching,1
 Kramer,mouth,panicky,1
@@ -19632,6 +20289,7 @@ Kramer,newman,hes,1
 Kramer,newman,jeez,1
 Kramer,newman,jumped,1
 Kramer,newman,newman,1
+Kramer,newman,now,1
 Kramer,newman,preens,1
 Kramer,newman,pull,1
 Kramer,newman,raves,1
@@ -19706,6 +20364,20 @@ Kramer,noticeably,musty,1
 Kramer,noticing,morty,1
 Kramer,noticing,suds,1
 Kramer,novocaine,slurrs,1
+Kramer,now,bang,1
+Kramer,now,bear,1
+Kramer,now,bobby,1
+Kramer,now,feel,1
+Kramer,now,frank,1
+Kramer,now,im,1
+Kramer,now,karen,1
+Kramer,now,olive,1
+Kramer,now,picture,1
+Kramer,now,sex,1
+Kramer,now,stop,1
+Kramer,now,vreep,1
+Kramer,now,watch,1
+Kramer,now,what're,1
 Kramer,nuclear,war,1
 Kramer,nude,bathing,1
 Kramer,number's,driving,1
@@ -19713,6 +20385,7 @@ Kramer,o'brien,o'brien,1
 Kramer,o'brien's,coming,1
 Kramer,o'tea,boiling,1
 Kramer,observing,elaine's,1
+Kramer,ocean,now,1
 Kramer,ocean,sounds,1
 Kramer,oddly,um,1
 Kramer,offended,literally,1
@@ -19767,6 +20440,7 @@ Kramer,orchestra,row,1
 Kramer,oreos,acts,1
 Kramer,orgiastic,feast,1
 Kramer,original,ray's,1
+Kramer,ouch,now,1
 Kramer,ouh,au,1
 Kramer,oui,oui,1
 Kramer,outstretched,arms,1
@@ -19786,6 +20460,7 @@ Kramer,packyderm,story,1
 Kramer,paella,ya,1
 Kramer,page,2,1
 Kramer,pageant,stands,1
+Kramer,pages,now,1
 Kramer,pain,ow,1
 Kramer,pain,waahh,1
 Kramer,pain,yeow,1
@@ -19793,6 +20468,7 @@ Kramer,paint,god,1
 Kramer,paint,thinner,1
 Kramer,painting,auto,1
 Kramer,painting,whoa,1
+Kramer,pair,now,1
 Kramer,palaces,minor,1
 Kramer,palate's,unrefined,1
 Kramer,pan,complex,1
@@ -19843,7 +20519,9 @@ Kramer,pay,taxes,1
 Kramer,pay,ten,1
 Kramer,payapa,king,1
 Kramer,payback,time,1
+Kramer,paying,now,1
 Kramer,paying,scrubwomen,1
+Kramer,payoffs,now,1
 Kramer,pays,ten,1
 Kramer,pays,top,1
 Kramer,pbs,pdq,1
@@ -19917,6 +20595,7 @@ Kramer,phone,kay,1
 Kramer,phone,kramerica,1
 Kramer,phone,sex,1
 Kramer,photo,book,1
+Kramer,photo,now,1
 Kramer,photo,store,1
 Kramer,physically,fit,1
 Kramer,pi,ooh,1
@@ -20013,6 +20692,7 @@ Kramer,possibly,dozens,1
 Kramer,post,mousse,1
 Kramer,postal,route,1
 Kramer,poster,3,1
+Kramer,potent,now,1
 Kramer,potty,door,1
 Kramer,pound,air,1
 Kramer,pouring,cereal,1
@@ -20097,6 +20777,7 @@ Kramer,quick,punches,1
 Kramer,quickly,ah,1
 Kramer,quiet,anger,1
 Kramer,quiet,delicately,1
+Kramer,quiet,now,1
 Kramer,quiet,shh,1
 Kramer,quietly,ah,1
 Kramer,quietly,buffer,1
@@ -20170,6 +20851,7 @@ Kramer,remarkable,texture,1
 Kramer,remember,ma'am,1
 Kramer,remember,poppie,1
 Kramer,rent,240,1
+Kramer,rent,now,1
 Kramer,restaurant,youve,1
 Kramer,reston,uhm,1
 Kramer,reston's,cigar,1
@@ -20185,9 +20867,11 @@ Kramer,rick,oftentimes,1
 Kramer,rick,savage,1
 Kramer,rickshaw,giddy,1
 Kramer,rickshaws,means,1
+Kramer,ridiculous,now,1
 Kramer,ridiculous,puffy,1
 Kramer,rifle,830,1
 Kramer,righty,sits,1
+Kramer,riiight,now,1
 Kramer,ring,ding,1
 Kramer,ring,dings,1
 Kramer,ring,holding,1
@@ -20260,6 +20944,7 @@ Kramer,sane,food,1
 Kramer,sang,99,1
 Kramer,santa,claus,1
 Kramer,santa,speaks,1
+Kramer,sap,now,1
 Kramer,satisfied,ahh,1
 Kramer,sausage,press,1
 Kramer,savage,free,1
@@ -20301,9 +20986,11 @@ Kramer,serenity,nooooowwwww,1
 Kramer,sergio,mendes,1
 Kramer,serial,killing,1
 Kramer,service,charges,1
+Kramer,service,now,1
 Kramer,service,rates,1
 Kramer,set,claps,1
 Kramer,set,foot,1
+Kramer,sex,now,1
 Kramer,sex,real,1
 Kramer,sex'll,melt,1
 Kramer,sexual,amalgam,1
@@ -20322,6 +21009,7 @@ Kramer,shaving,creams,1
 Kramer,sheet,crumples,1
 Kramer,shell,pay,1
 Kramer,shell,shocked,1
+Kramer,shellbach,now,1
 Kramer,shes,questioning,1
 Kramer,shes,thinking,1
 Kramer,shh,kenny,1
@@ -20342,7 +21030,9 @@ Kramer,shoe,maker,1
 Kramer,shoe,repair,1
 Kramer,shoehorn,hands,1
 Kramer,shoes,comfortable,1
+Kramer,shoes,now,1
 Kramer,shoeshine,kit,1
+Kramer,shoot,now,1
 Kramer,shooting,star,1
 Kramer,shopping,cart,1
 Kramer,shopping,carts,1
@@ -20393,6 +21083,7 @@ Kramer,sixty,dunks,1
 Kramer,sixty,fourth,1
 Kramer,skill,level,1
 Kramer,skin,moist,1
+Kramer,skin,now,1
 Kramer,skin,silky,1
 Kramer,skin,singles,1
 Kramer,sky,holds,1
@@ -20420,6 +21111,7 @@ Kramer,smiles,cadillac,1
 Kramer,smiling,wickedly,1
 Kramer,smoke,pouring,1
 Kramer,smooth,creamy,1
+Kramer,smooth,now,1
 Kramer,smucker's,coughs,1
 Kramer,smuckers,coughs,1
 Kramer,smuckers,smuckers,1
@@ -20438,6 +21130,7 @@ Kramer,softly,hmmm,1
 Kramer,sold,follow,1
 Kramer,sold,rudy,1
 Kramer,solid,block,1
+Kramer,solution,now,1
 Kramer,somebody's,baby,1
 Kramer,somebody's,house,1
 Kramer,someone's,birthday,1
@@ -20464,6 +21157,7 @@ Kramer,soup,nazi,1
 Kramer,soviet,cable,1
 Kramer,soviet,cultures,1
 Kramer,spaceship,surrounded,1
+Kramer,spaghetti,now,1
 Kramer,spanish,maria,1
 Kramer,spanking,machine,1
 Kramer,spare,keys,1
@@ -20487,6 +21181,7 @@ Kramer,sports,nudity,1
 Kramer,sports,section,1
 Kramer,spot,zig,1
 Kramer,spray,paint,1
+Kramer,spring,now,1
 Kramer,springin,ahead,1
 Kramer,squamous,cell,1
 Kramer,square,garden,1
@@ -20515,6 +21210,7 @@ Kramer,started,talking,1
 Kramer,started,walkin,1
 Kramer,started,walking,1
 Kramer,started,yelling,1
+Kramer,starting,now,1
 Kramer,startled,ahh,1
 Kramer,starts,arranging,1
 Kramer,starts,chokin,1
@@ -20533,6 +21229,7 @@ Kramer,stations,tolls,1
 Kramer,stay,home,1
 Kramer,stay,juicy,1
 Kramer,stay,strong,1
+Kramer,steady,now,1
 Kramer,steady,steady,1
 Kramer,steaks,mac,1
 Kramer,steering,wheel,1
@@ -20548,6 +21245,7 @@ Kramer,stick,jams,1
 Kramer,sticky,situations,1
 Kramer,stir,bring,1
 Kramer,stitching,takes,1
+Kramer,stock,now,1
 Kramer,stony,mineral,1
 Kramer,stop,bothering,1
 Kramer,stop,eating,1
@@ -20588,6 +21286,7 @@ Kramer,strip,club,1
 Kramer,strong,buddy,1
 Kramer,strong,legs,1
 Kramer,strong,pecks,1
+Kramer,stronger,now,1
 Kramer,struggling,barely,1
 Kramer,stu,eddie,1
 Kramer,stub,boy,1
@@ -20627,6 +21326,7 @@ Kramer,super,bowl,1
 Kramer,super,savers,1
 Kramer,superheated,water,1
 Kramer,supplemental,restraint,1
+Kramer,surgery,now,1
 Kramer,surprise,tina,1
 Kramer,susan,called,1
 Kramer,susan,sarandon,1
@@ -20676,10 +21376,13 @@ Kramer,taking,fifteen,1
 Kramer,taking,jerry's,1
 Kramer,taking,notes,1
 Kramer,talent,poise,1
+Kramer,talk,now,1
 Kramer,talkin,feature,1
+Kramer,talkin,now,1
 Kramer,talkin,trash,1
 Kramer,talking,hirachis,1
 Kramer,talking,nixon,1
+Kramer,talking,now,1
 Kramer,taller,giddyup,1
 Kramer,tank,fits,1
 Kramer,tanning,machines,1
@@ -20695,6 +21398,7 @@ Kramer,taste,buds,1
 Kramer,taste,nothin,1
 Kramer,taste,terrible,1
 Kramer,tasted,lobster,1
+Kramer,tasteful,now,1
 Kramer,tattle,tale,1
 Kramer,taught,em,1
 Kramer,taught,pre,1
@@ -20734,6 +21438,8 @@ Kramer,test,drive,1
 Kramer,test,pizza,1
 Kramer,test,tube,1
 Kramer,test,tubes,1
+Kramer,tested,now,1
+Kramer,texas,now,1
 Kramer,thanksgiving,eve,1
 Kramer,that'll,change,1
 Kramer,that'll,kill,1
@@ -20749,6 +21455,7 @@ Kramer,thi,oak,1
 Kramer,thick,ahoy,1
 Kramer,thick,removes,1
 Kramer,thin,late,1
+Kramer,thinking,now,1
 Kramer,thip,suck,1
 Kramer,thirties,single,1
 Kramer,thirty,thousand,1
@@ -20793,6 +21500,7 @@ Kramer,tiny,stacked,1
 Kramer,tip,calculators,1
 Kramer,tip,top,1
 Kramer,tired,poppie,1
+Kramer,title,now,1
 Kramer,toast,takes,1
 Kramer,tobacco,company,1
 Kramer,tobacco,store,1
@@ -20882,6 +21590,7 @@ Kramer,tube,pin,1
 Kramer,tubes,cool,1
 Kramer,tuck,handstand,1
 Kramer,tuesday,night,1
+Kramer,tupperware,now,1
 Kramer,turkey,sandwich,1
 Kramer,turkish,terrorist,1
 Kramer,tuxedo,whoo,1
@@ -20974,6 +21683,7 @@ Kramer,waiter,approaches,1
 Kramer,waiting,pulls,1
 Kramer,waj,cha,1
 Kramer,walk,baby,1
+Kramer,walk,now,1
 Kramer,walking,home,1
 Kramer,walks,past,1
 Kramer,wall,mmm,1
@@ -21059,6 +21769,7 @@ Kramer,white,smoke,1
 Kramer,white,whale,1
 Kramer,whoa,backup,1
 Kramer,whoa,ginga,1
+Kramer,whoa,now,1
 Kramer,whoa,ohh,1
 Kramer,whoa,psychosexual,1
 Kramer,whoah,boy,1
@@ -21196,6 +21907,7 @@ Kramer,yield,sign,1
 Kramer,yiggity,diggigg,1
 Kramer,yip,yip,1
 Kramer,yippie,yi,1
+Kramer,ymca,now,1
 Kramer,yodel,chanting,1
 Kramer,yogurt,diet,1
 Kramer,york,city,1

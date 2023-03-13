@@ -44,6 +44,14 @@
     </a>
  </p>
  
+ ---
+### Bigrams
+<p align= "center">
+    <a href="https://github.com/bradfordjohnson/seinfeld-analysis/blob/main/scripts/grams/03-visualize-bi.R"> 
+  <img src="visuals/02-seinfeld-bigrams.png" width="70%" /> 
+    </a>
+ </p>
+ 
 ## Citations
 ### Data
 - [Seinfeld data](https://www.kaggle.com/datasets/thec03u5/seinfeld-chronicles)

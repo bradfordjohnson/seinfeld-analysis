@@ -36,7 +36,7 @@ font_add_google(name = "Ubuntu", family = "Ubuntu")
 # load caption
 caption = paste0("<span style='font-family:fb;'>&#xf09b;</span>",
                  "<span style='font-family:sans;color:#1F2133;'>.</span>",
-                 "<span style='font-family:Dosis;'>bradfordjohnson</span>")
+                 "<span style='font-family:Dosis;'>bradfordjohnson | 180 ~30-min episodes</span>")
 
 # visualize sentiment
 lex %>%

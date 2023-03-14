@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.2.269">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="dcterms.date" content="2023-03-13">
+<meta name="description" content="Text analysis of scripts from the TV series Seinfeld">
+
+<title>Seinfeld Scripts</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="index_files/libs/clipboard/clipboard.min.js"></script>
+<script src="index_files/libs/quarto-html/quarto.js"></script>
+<script src="index_files/libs/quarto-html/popper.min.js"></script>
+<script src="index_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="index_files/libs/quarto-html/anchor.min.js"></script>
+<link href="index_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="index_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="index_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="index_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="index_files/libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+
+
+</head>
+
+<body class="fullcontent">
+
+<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
+
+<main class="content page-columns page-full" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Seinfeld Scripts</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">sentiment</div>
+    <div class="quarto-category">text analysis</div>
+  </div>
+  </div>
+
+<div>
+  <div class="description">
+    Text analysis of scripts from the TV series Seinfeld
+  </div>
+</div>
+
+
+<div class="quarto-title-meta">
+
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">March 13, 2023</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+</header>
+
+<section id="seinfeld-text-analysis-using-r" class="level1 page-columns page-full">
+<h1>Seinfeld Text Analysis using <code>R</code></h1>
+<div class="column-page-inset">
+<section id="objectives" class="level2">
+<h2 class="anchored" data-anchor-id="objectives">Objectives</h2>
+<ul>
+<li><strong>Sentiment analysis of Seinfeld scripts</strong>
+<ul>
+<li>Positive and negative sentiments across different lexicons</li>
+</ul></li>
+<li><strong>Identify “catchphrases”, common themes, and inside jokes</strong>
+<ul>
+<li>Word frequency and relationships</li>
+</ul></li>
+<li><strong>Word correlation</strong>
+<ul>
+<li>How are certain words related?</li>
+</ul></li>
+<li><strong>Wrangle and visualize insightful relationships</strong>…</li>
+</ul>
+</section>
+<section id="methods" class="level2">
+<h2 class="anchored" data-anchor-id="methods">Methods</h2>
+<section id="the-data-workflow" class="level3">
+<h3 class="anchored" data-anchor-id="the-data-workflow">The Data Workflow</h3>
+<ul>
+<li>Separate processes into dedicated <code>R</code> scripts and ‘<em>stages</em>’:
+<ul>
+<li>Individual <code>R</code> file for each data prep / wrangling / cleaning task</li>
+<li>Save wrangled and cleaned data frames as <code>.csv</code>’s</li>
+<li>Load prepared data into dedicated visualization scripts</li>
+<li>Save individual visuals and final visuals</li>
+</ul></li>
+</ul>
+<p><strong>This workflow is done in stages for the following reasons:</strong></p>
+<ul>
+<li><p>Lighten the workload on a machine | <em>lots of text in these data sets</em></p></li>
+<li><p>Maintain an organized work environment</p></li>
+<li><p>Prepared data can be saved and used in the future | <em>version control</em></p></li>
+<li><p>Errors can be isolated</p></li>
+</ul>
+</section>
+<section id="sentiment-analysis" class="level3">
+<h3 class="anchored" data-anchor-id="sentiment-analysis">Sentiment Analysis</h3>
+<ul>
+<li><p><code>unnest_tokens()</code> | Separate <em>text into rows of single words</em></p></li>
+<li><p><code>anti_join()</code> | <em>Drop uninteresting words (stop words)</em></p></li>
+<li><p><code>get_sentiment()</code> | <em>Evaluating 3 different lexicons:</em></p>
+<ul>
+<li><p>Bing</p></li>
+<li><p>NRC</p></li>
+<li><p>AFINN</p></li>
+</ul></li>
+</ul>
+</section>
+<section id="bigrams" class="level3">
+<h3 class="anchored" data-anchor-id="bigrams">Bigrams</h3>
+<blockquote class="blockquote">
+<p><strong>Bigrams:</strong> Pairs of consecutive words grouped by character with counts</p>
+</blockquote>
+<ul>
+<li><code>unnest_tokens(bigram)</code> | Separate <em>text into rows of two words</em></li>
+<li><code>filter()</code> | <em>Remove common stop words and selected words</em></li>
+<li><code>count()</code> | <em>Get counts of bigrams</em></li>
+</ul>
+</section>
+</section>
+<section id="visuals" class="level2">
+<h2 class="anchored" data-anchor-id="visuals">Visuals</h2>
+<section id="sentiment-raincloud" class="level3">
+<h3 class="anchored" data-anchor-id="sentiment-raincloud">Sentiment Raincloud</h3>
+<p align="center">
+</p><div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://github.com/bradfordjohnson/seinfeld-analysis/blob/main/scripts/sentiment/06-visualize-sentiment.R"><img src="visuals/01-seinfeld-sentiment.png" class="img-fluid figure-img" style="width:70.0%"></a></p>
+</figure>
+</div>
+<p></p>
+<hr>
+</section>
+<section id="bigrams-1" class="level3">
+<h3 class="anchored" data-anchor-id="bigrams-1">Bigrams</h3>
+<p align="center">
+</p><div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://github.com/bradfordjohnson/seinfeld-analysis/blob/main/scripts/grams/03-visualize-bi.R"><img src="visuals/02-seinfeld-bigrams.png" class="img-fluid figure-img" style="width:70.0%"></a></p>
+</figure>
+</div>
+<p></p>
+</section>
+</section>
+<section id="what-i-learned" class="level2">
+<h2 class="anchored" data-anchor-id="what-i-learned">What I Learned</h2>
+<ul>
+<li><p>How to use lexicons and “tune” them for a specific need</p></li>
+<li><p>How to filter words like stop words, and customize the lists of words</p></li>
+<li><p>Using <code>bigrams</code>, <code>trigrams</code>, and <code>correlation</code> to identify common themes and trends</p></li>
+<li><p>How to implement these methods to paint the bigger picture</p></li>
+</ul>
+</section>
+<section id="citations" class="level2">
+<h2 class="anchored" data-anchor-id="citations">Citations</h2>
+<section id="data" class="level3">
+<h3 class="anchored" data-anchor-id="data">Data</h3>
+<ul>
+<li><a href="https://www.kaggle.com/datasets/thec03u5/seinfeld-chronicles">Seinfeld data</a></li>
+</ul>
+</section>
+<section id="lexicons" class="level3">
+<h3 class="anchored" data-anchor-id="lexicons">Lexicons</h3>
+<ul>
+<li><p>Finn Årup Nielsen A new ANEW: Evaluation of a word list for sentiment analysis in microblogs. Proceedings of the ESWC2011 Workshop on ‘Making Sense of Microposts’: Big things come in small packages 718 in CEUR Workshop Proceedings 93-98. 2011 May. <a href="https://arxiv.org/abs/1103.2903" class="uri">https://arxiv.org/abs/1103.2903</a>.</p></li>
+<li><p>Minqing Hu and Bing Liu, “Mining and summarizing customer reviews.”, Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery &amp; Data Mining (KDD-2004), 2004.</p></li>
+<li><p>Mohammad, S.M. and Turney, P.D. (2013), CROWDSOURCING A WORD–EMOTION ASSOCIATION LEXICON. Computational Intelligence, 29: 436-465. <a href="https://doi.org/10.1111/j.1467-8640.2012.00460.x" class="uri">https://doi.org/10.1111/j.1467-8640.2012.00460.x</a></p></li>
+</ul>
+</section>
+</section>
+</div>
+</section>
+
+</main>
+<!-- /main column -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>
